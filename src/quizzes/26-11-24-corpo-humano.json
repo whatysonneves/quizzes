@@ -1,0 +1,111 @@
+{
+	"title": "Corpo Humano",
+	"description": "Perguntas sobre os órgãos, sistemas e estruturas do corpo humano.",
+	"questions": [
+		{
+			"question": "Qual é o nome do maior osso do corpo humano?",
+			"answer": "Fêmur"
+		},
+		{
+			"question": "Quantos ossos o corpo humano adulto possui?",
+			"answer": "206"
+		},
+		{
+			"question": "Qual sistema é responsável pelo transporte de sangue?",
+			"answer": "Sistema circulatório"
+		},
+		{
+			"question": "Qual órgão produz a insulina?",
+			"answer": "Pâncreas"
+		},
+		{
+			"question": "Qual órgão é a proteção do corpo contra invasão de patógenos?",
+			"answer": "Pele"
+		},
+		{
+			"question": "Qual é a função do esôfago?",
+			"answer": "Conduz o alimento para o estômago"
+		},
+		{
+			"question": "Qual é o nome do órgão que produz óvulos?",
+			"answer": "Ovário"
+		},
+		{
+			"question": "Qual sistema protege o corpo contra vírus?",
+			"answer": "Sistema imunológico"
+		},
+		{
+			"question": "Qual é a função do intestino delgado?",
+			"answer": "Absorve nutrientes"
+		},
+		{
+			"question": "Quantas vértebras tem a coluna adulta?",
+			"answer": "33",
+			"answerNote": "7 cervicais, 12 torácicas, 5 lombares, 5 sacrais e geralmente 4 coccígeas."
+		},
+		{
+			"question": "Qual é o nome do osso em forma de lâmina que protege o joelho?",
+			"answer": "Patela"
+		},
+		{
+			"question": "Qual é o nome do fluido que nutre as articulações?",
+			"answer": "Líquido sinovial"
+		},
+		{
+			"question": "Qual parte do corpo remove os resíduos do sangue?",
+			"answer": "Rins"
+		},
+		{
+			"question": "Qual é o nome da membrana que reveste os pulmões?",
+			"answer": "Pleura"
+		},
+		{
+			"question": "Qual é a unidade de medida da pressão arterial?",
+			"answer": "mmHg"
+		},
+		{
+			"question": "Qual parte do corpo processa a luz para a visão?",
+			"answer": "Retina"
+		},
+		{
+			"question": "Qual é o nome da molécula que carrega a energia nas células?",
+			"answer": "ATP"
+		},
+		{
+			"question": "Qual é a unidade estrutural do corpo humano?",
+			"answer": "Célula"
+		},
+		{
+			"question": "Qual órgão faz a produção da bile?",
+			"answer": "Fígado"
+		},
+		{
+			"question": "Qual é o nome da membrana que envolve o coração?",
+			"answer": "Pericárdio"
+		},
+		{
+			"question": "Qual sistema transporta e distribui o sangue?",
+			"answer": "Sistema circulatório"
+		},
+		{
+			"question": "Qual parte do corpo é o centro de comunicação do corpo?",
+			"answer": "Sistema nervoso"
+		},
+		{
+			"question": "Qual é o nome do osso da cabeça que protege o cérebro?",
+			"answer": "Crânio"
+		},
+		{
+			"question": "Qual sistema é responsável pelo metabolismo hormonal?",
+			"answer": "Sistema endócrino"
+		},
+		{
+			"question": "Qual órgão digere os alimentos?",
+			"answer": "Estômago"
+		},
+		{
+			"question": "Qual é a função do osso frontal?",
+			"answer": "Forma a testa"
+		}
+	]
+}

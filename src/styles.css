@@ -46,7 +46,7 @@ body {
 	color: var(--text);
 }
 
-button { font: inherit; }
+button { font: inherit; touch-action: manipulation; }
 button:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
 
 #app { min-height: 100vh; }
@@ -91,7 +91,10 @@ button:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
 .quiz-list-section { padding: 25px; border: 1px solid var(--line); border-radius: 22px; background: var(--surface); box-shadow: var(--shadow); }
 .section-heading { justify-content: space-between; gap: 16px; margin-bottom: 15px; }
 .section-heading h2 { margin: 0; font: 800 17px Inter, ui-sans-serif, system-ui, sans-serif; letter-spacing: -.025em; }
+.home-list-actions { display: flex; align-items: center; gap: 12px; }
 .quiz-count { color: var(--muted); font-size: 12px; font-weight: 600; }
+.random-quiz-button { white-space: nowrap; }
+.random-quiz-button:hover { border-color: var(--accent); background: var(--surface-soft); }
 .quiz-list { display: grid; gap: 8px; }
 .quiz-card {
 	width: 100%;
@@ -159,13 +162,13 @@ button:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
 }
 .flashcard-eyebrow { margin: 0 0 12px; color: var(--accent); font-size: 11px; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
 .flashcard-question { max-width: 620px; margin: 0; font: 800 clamp(30px, 6vw, 56px)/1.12 Inter, ui-sans-serif, system-ui, sans-serif; letter-spacing: -.045em; overflow-wrap: anywhere; }
-.flashcard-note { max-width: 560px; margin: 13px 0 0; color: var(--muted); font-size: 14px; line-height: 1.55; }
+.flashcard-note { max-width: 560px; margin: 13px 0 0; color: var(--muted); font-size: 16px; line-height: 1.55; }
 .flashcard-answer-block { display: flex; width: min(100%, 620px); flex-direction: column; align-items: center; margin-top: 28px; animation: reveal .22s ease-out; }
 .answer-divider { width: 48px; height: 3px; margin-bottom: 21px; border-radius: 99px; background: var(--highlight); }
 .answer-eyebrow { color: #b27613; }
 :root[data-theme="dark"] .answer-eyebrow { color: var(--highlight); }
 .flashcard-answer { margin: 0; color: var(--accent); font: 700 clamp(22px, 4vw, 34px)/1.3 Inter, ui-sans-serif, system-ui, sans-serif; overflow-wrap: anywhere; }
-.answer-note { margin-top: 7px; font-size: 12px; }
+.answer-note { margin-top: 7px; font-size: 16px; }
 .game-controls { display: flex; gap: 0; width: 100%; margin-top: 18px; }
 .game-control { width: 50%; min-height: 56px; border: 0; border-radius: 13px; font-weight: 800; cursor: pointer; transition: background .16s ease, opacity .16s ease, transform .16s ease; }
 .game-control:active:not(:disabled) { transform: scale(.99); }
@@ -189,6 +192,8 @@ button:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
 	.home-page { padding-top: 22px; }
 	.site-header { margin-bottom: 25px; }
 	.quiz-list-section { padding: 17px 12px 12px; border-radius: 18px; }
+	.section-heading { align-items: flex-start; }
+	.home-list-actions { flex-direction: column-reverse; align-items: flex-end; gap: 7px; }
 	.quiz-card { min-height: 62px; padding-left: 11px; }
 	.quiz-card-title { font-size: 13px; }
 	.quiz-card-meta { max-width: 62vw; font-size: 10px; }
@@ -203,7 +208,7 @@ button:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
 	.game-theme-toggle span:last-child { display: none; }
 	.game-progress { margin: 24px 0 12px; }
 	.flashcard { min-height: 0; padding: 28px 19px; border-radius: 21px; }
-	.flashcard-note { font-size: 12px; }
+	.flashcard-note, .answer-note { font-size: 14px; }
 	.flashcard-answer-block { margin-top: 23px; }
 	.game-controls { gap: 0; margin-top: 12px; }
 	.game-control { min-height: 54px; font-size: 13px; }

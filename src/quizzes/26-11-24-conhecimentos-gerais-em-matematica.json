@@ -1,0 +1,90 @@
+{
+	"title": "Conhecimentos gerais em matemática",
+	"description": "Perguntas rápidas sobre operações, números, geometria, estatística e probabilidade.",
+	"questions": [
+		{
+			"question": "Qual é o valor aproximado de π com duas casas decimais?",
+			"answer": "3,14",
+			"answerNote": "π é irracional: suas casas decimais são infinitas e não periódicas."
+		},
+		{
+			"question": "Qual operação matemática adiciona valores?",
+			"answer": "Adição"
+		},
+		{
+			"question": "Qual operação matemática reduz um valor ao retirar outro?",
+			"answer": "Subtração"
+		},
+		{
+			"question": "Qual operação representa a adição repetida de parcelas iguais?",
+			"answer": "Multiplicação"
+		},
+		{
+			"question": "Qual operação divide uma quantidade em partes iguais?",
+			"answer": "Divisão"
+		},
+		{
+			"question": "Como se chama a operação de multiplicar um número por ele mesmo várias vezes?",
+			"answer": "Potenciação",
+			"answerNote": "Por exemplo, 2⁴ significa 2 × 2 × 2 × 2."
+		},
+		{
+			"question": "Qual número não altera outro número quando somado a ele?",
+			"answer": "Zero"
+		},
+		{
+			"question": "Qual número não altera outro número quando multiplicado por ele?",
+			"answer": "Um"
+		},
+		{
+			"question": "A que porcentagem corresponde 1/2?",
+			"answer": "50%"
+		},
+		{
+			"question": "Qual fração simplificada equivale a 25%?",
+			"answer": "1/4"
+		},
+		{
+			"question": "O que caracteriza um número primo?",
+			"answer": "Tem exatamente dois divisores positivos",
+			"answerNote": "São 1 e o próprio número. O número 1 não é primo."
+		},
+		{
+			"question": "Como se chama o número que fica abaixo do traço em uma fração?",
+			"answer": "Denominador"
+		},
+		{
+			"question": "Quantos graus mede um ângulo reto?",
+			"answer": "90°"
+		},
+		{
+			"question": "Qual fórmula calcula a área de um retângulo?",
+			"answer": "Base × altura"
+		},
+		{
+			"question": "Qual é a área de um quadrado com lado de 4 cm?",
+			"answer": "16 cm²"
+		},
+		{
+			"question": "Qual fórmula calcula a área de um círculo?",
+			"answer": "π × raio²",
+			"answerNote": "O raio é a distância do centro até a borda do círculo."
+		},
+		{
+			"question": "Como se calcula o perímetro de uma figura?",
+			"answer": "Somando os lados"
+		},
+		{
+			"question": "Como se chama o triângulo que tem os três lados iguais?",
+			"answer": "Equilátero"
+		},
+		{
+			"question": "Como se chama um polígono de cinco lados?",
+			"answer": "Pentágono"
+		},
+		{
+			"question": "Se jogar uma moeda 9 vezes, e em todas o resultado for cara, na décima vez, qual a probabilidade de sair cara de novo?",
+			"answer": "1/2 (50%)"
+		}
+	]
+}

@@ -6,6 +6,7 @@ import { cycleTheme, initTheme, watchSystemTheme, type Theme } from "./lib/theme
 import { renderGame } from "./views/game";
 import { renderHome } from "./views/home";
 import { confirmRestart } from "./views/restart-dialog";
+import { showNoUnfinishedQuizzesAlert } from "./views/alerts";
 
 const appRoot = document.querySelector<HTMLDivElement>("#app");
 if (!appRoot) throw new Error("Elemento #app não encontrado.");
@@ -34,6 +35,16 @@ function renderHomePage(): void {
 			onOpenQuiz: (slug) => {
 				window.location.hash = `/quiz/${encodeURIComponent(slug)}`;
 			},
+				onRandomQuiz: () => {
+					const progress = loadProgress();
+					const unfinished = quizzes.filter((quiz) => progress[quiz.slug]?.status !== "complete");
+					if (unfinished.length === 0) {
+						void showNoUnfinishedQuizzesAlert();
+						return;
+					}
+					const selected = unfinished[Math.floor(Math.random() * unfinished.length)];
+					window.location.hash = `/quiz/${encodeURIComponent(selected.slug)}`;
+				},
 			onToggleTheme: () => toggleTheme(renderHomePage),
 		}),
 	);

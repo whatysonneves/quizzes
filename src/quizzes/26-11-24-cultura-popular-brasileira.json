@@ -1,0 +1,119 @@
+{
+	"title": "Cultura Popular Brasileira",
+	"description": "Perguntas sobre as festas, tradições, lendas, danças, músicas, comidas típicas e manifestações culturais que fazem parte da identidade brasileira.",
+	"questions": [
+		{
+			"question": "Qual festa popular brasileira é tradicionalmente celebrada em junho, com fogueiras, quadrilhas e comidas típicas?",
+			"answer": "Festa Junina"
+		},
+		{
+			"question": "Qual personagem do folclore brasileiro tem uma perna só e usa um gorro vermelho?",
+			"answer": "Saci-Pererê"
+		},
+		{
+			"question": "Qual dança típica pernambucana é conhecida pelos passos rápidos e pelas sombrinhas coloridas?",
+			"answer": "Frevo",
+			"answerNote": "É uma das principais manifestações culturais do Carnaval de Pernambuco e foi reconhecido como Patrimônio Cultural Imaterial da Humanidade pela UNESCO."
+		},
+		{
+			"question": "Qual prato típico brasileiro é preparado com feijão preto, carnes e diversos acompanhamentos?",
+			"answer": "Feijoada"
+		},
+		{
+			"question": "Qual personagem do folclore brasileiro protege as florestas e costuma ser representado como um menino de cabelos vermelhos e pés virados para trás?",
+			"answer": "Curupira"
+		},
+		{
+			"question": "Qual instrumento musical de percussão é muito utilizado nas rodas de samba?",
+			"answer": "Pandeiro"
+		},
+		{
+			"question": "Qual personagem folclórica é conhecida por seduzir homens e se transformar em uma mulher bonita?",
+			"answer": "Iara",
+			"answerNote": "Também conhecida como Mãe-d'Água, é uma personagem das lendas amazônicas."
+		},
+		{
+			"question": "Qual é o nome da tradicional luta e dança brasileira que mistura movimentos de combate, música e acrobacias?",
+			"answer": "Capoeira",
+			"answerNote": "A capoeira é uma manifestação cultural afro-brasileira que reúne luta, dança, música e ancestralidade."
+		},
+		{
+			"question": "Qual doce brasileiro é tradicionalmente preparado com leite condensado, chocolate e granulado?",
+			"answer": "Brigadeiro"
+		},
+		{
+			"question": "Qual é o nome do famoso ritmo musical brasileiro originário do Nordeste, muito associado a Luiz Gonzaga?",
+			"answer": "Baião"
+		},
+		{
+			"question": "Qual cantor brasileiro ficou conhecido como o Rei da Boemia?",
+			"answer": "Nelson Gonçalves",
+			"answerNote": "Foi um dos maiores cantores da música popular brasileira, conhecido por sua voz marcante e por interpretar sambas-canção e boleros."
+		},
+		{
+			"question": "Qual personagem do folclore brasileiro é uma mula que solta fogo pelo pescoço?",
+			"answer": "Mula sem Cabeça",
+			"answerNote": "Segundo a lenda, trata-se de uma mulher amaldiçoada que se transforma em uma mula com chamas no lugar da cabeça."
+		},
+		{
+			"question": "Qual é o nome da tradicional festa carnavalesca de Salvador, marcada por trios elétricos e blocos de rua?",
+			"answer": "Carnaval de Salvador"
+		},
+		{
+			"question": "Qual prato típico mineiro é preparado com polvilho, queijo, ovos e leite?",
+			"answer": "Pão de queijo"
+		},
+		{
+			"question": "Qual é o nome da dança popular brasileira em que os participantes formam pares e seguem comandos como túnel e grande roda?",
+			"answer": "Quadrilha",
+			"answerNote": "É uma dança tradicional das festas juninas, com forte influência de antigas danças europeias."
+		},
+		{
+			"question": "Qual personagem do folclore brasileiro é conhecido por assobiar e assustar pessoas nas florestas?",
+			"answer": "Caipora",
+			"answerNote": "É uma figura folclórica protetora dos animais e das matas."
+		},
+		{
+			"question": "Qual é o principal ingrediente da pamonha tradicional?",
+			"answer": "Milho"
+		},
+		{
+			"question": "Qual cantor brasileiro ficou conhecido como o Rei do Baião?",
+			"answer": "Luiz Gonzaga"
+		},
+		{
+			"question": "Qual é o nome do ritmo musical brasileiro caracterizado pelo uso de sanfona, zabumba e triângulo?",
+			"answer": "Forró",
+			"answerNote": "É um gênero musical muito popular no Nordeste, especialmente durante as festas juninas."
+		},
+		{
+			"question": "Qual é o nome da tradicional dança brasileira de origem africana, muito popular no litoral de Pernambuco?",
+			"answer": "Maracatu",
+			"answerNote": "É uma manifestação cultural afro-brasileira que combina cortejos, música percussiva, dança e elementos da tradição dos reinados negros."
+		},
+		{
+			"question": "Qual bebida brasileira é tradicionalmente preparada com cachaça, limão, açúcar e gelo?",
+			"answer": "Caipirinha"
+		},
+		{
+			"question": "Qual é o nome da festa popular brasileira em que se comemora a chegada do ano novo, frequentemente com roupas brancas e oferendas ao mar?",
+			"answer": "Réveillon",
+			"answerNote": "No Brasil, a celebração possui tradições como pular sete ondas e homenagear Iemanjá, especialmente em cidades litorâneas."
+		},
+		{
+			"question": "Qual escritor brasileiro criou personagens como Emília, Visconde de Sabugosa e Narizinho?",
+			"answer": "Monteiro Lobato",
+			"answerNote": "Foi o criador do universo literário do Sítio do Picapau Amarelo."
+		},
+		{
+			"question": "Qual cartunista brasileiro criou personagens como Mônica, Cebolinha, Cascão e Magali?",
+			"answer": "Mauricio de Sousa",
+			"answerNote": "É o criador da Turma da Mônica, uma das histórias em quadrinhos mais populares do Brasil."
+		},
+		{
+			"question": "Qual é o nome do prato típico baiano preparado com feijão-fradinho, cebola e sal, frito no azeite de dendê?",
+			"answer": "Acarajé",
+			"answerNote": "É uma comida de origem afro-brasileira, muito ligada à cultura e à religiosidade do povo baiano."
+		}
+	]
+}

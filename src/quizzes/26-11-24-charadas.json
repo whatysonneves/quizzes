@@ -1,0 +1,78 @@
+{
+	"title": "Charadas",
+	"description": "Perguntas divertidas de observação, lógica e trocadilhos do dia a dia.",
+	"questions": [
+		{
+			"question": "O que tem dentes, mas não consegue morder?",
+			"answer": "Pente"
+		},
+		{
+			"question": "Quanto mais você tira, maior fica. O que é?",
+			"answer": "Buraco"
+		},
+		{
+			"question": "Tem cidades sem casas, rios sem água e florestas sem árvores. O que é?",
+			"answer": "Mapa"
+		},
+		{
+			"question": "Fica molhada enquanto seca. O que é?",
+			"answer": "Toalha"
+		},
+		{
+			"question": "Em você está sempre aumentando e nunca diminui. O que é?",
+			"answer": "Idade"
+		},
+		{
+			"question": "É seu, mas outras pessoas dizem mais vezes do que você. O que é?",
+			"answer": "Seu nome"
+		},
+		{
+			"question": "Pode ser quebrada sem ser tocada. O que é?",
+			"answer": "Promessa"
+		},
+		{
+			"question": "Enche um quarto inteiro, mas não ocupa espaço. O que é?",
+			"answer": "Luz"
+		},
+		{
+			"question": "Tem quatro pernas, mas não consegue andar. O que é?",
+			"answer": "Mesa"
+		},
+		{
+			"question": "Viaja pelo mundo sem sair do canto de um envelope. O que é?",
+			"answer": "Selo"
+		},
+		{
+			"question": "Corre sem ter pernas e tem leito sem dormir. O que é?",
+			"answer": "Rio"
+		},
+		{
+			"question": "Qual chave aperta parafusos, mas não abre portas?",
+			"answer": "Chave de fenda"
+		},
+		{
+			"question": "Precisa ser quebrado antes de ser usado. O que é?",
+			"answer": "Ovo"
+		},
+		{
+			"question": "Cai em pé e corre deitado. O que é?",
+			"answer": "Chuva"
+		},
+		{
+			"question": "O que você consegue segurar com a mão esquerda, mas não com a direita?",
+			"answer": "Seu cotovelo direito"
+		},
+		{
+			"question": "Está cheia de buracos, mas ainda consegue segurar água. O que é?",
+			"answer": "Esponja"
+		},
+		{
+			"question": "Sobe e desce, mas permanece no mesmo lugar. O que é?",
+			"answer": "Escada"
+		},
+		{
+			"question": "Tem botões, mas não veste camisa; muda de canal sem sair do sofá. O que é?",
+			"answer": "Controle remoto"
+		}
+	]
+}

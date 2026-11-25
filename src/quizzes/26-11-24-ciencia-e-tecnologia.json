@@ -1,0 +1,117 @@
+{
+	"title": "Ciência e Tecnologia",
+	"description": "Perguntas curtas sobre biologia, física, química, astronomia e computação.",
+	"questions": [
+		{
+			"question": "Qual é a fórmula química da água?",
+			"answer": "H₂O"
+		},
+		{
+			"question": "Qual gás as plantas absorvem durante a fotossíntese?",
+			"answer": "Dióxido de carbono",
+			"answerNote": "As plantas também usam água e energia da luz nesse processo."
+		},
+		{
+			"question": "Qual gás é liberado como subproduto da fotossíntese?",
+			"answer": "Oxigênio"
+		},
+		{
+			"question": "Qual é a menor unidade básica dos seres vivos?",
+			"answer": "Célula"
+		},
+		{
+			"question": "Qual molécula carrega a informação genética dos seres vivos?",
+			"answer": "DNA"
+		},
+		{
+			"question": "Que forma tem a estrutura clássica do DNA?",
+			"answer": "Dupla hélice"
+		},
+		{
+			"question": "A que elemento químico corresponde o símbolo Fe?",
+			"answer": "Ferro"
+		},
+		{
+			"question": "Qual unidade do Sistema Internacional mede força?",
+			"answer": "Newton"
+		},
+		{
+			"question": "Qual unidade do Sistema Internacional mede energia?",
+			"answer": "Joule"
+		},
+		{
+			"question": "Que força de atração age entre corpos com massa?",
+			"answer": "Gravidade"
+		},
+		{
+			"question": "Qual partícula subatômica tem carga elétrica negativa?",
+			"answer": "Elétron"
+		},
+		{
+			"question": "Como se chama a região central de um átomo?",
+			"answer": "Núcleo",
+			"answerNote": "O núcleo contém prótons e, na maioria dos átomos, nêutrons."
+		},
+		{
+			"question": "Qual processo produz a energia liberada pelo Sol?",
+			"answer": "Fusão nuclear"
+		},
+		{
+			"question": "Qual é o maior planeta do Sistema Solar?",
+			"answer": "Júpiter"
+		},
+		{
+			"question": "Qual planeta é conhecido como Planeta Vermelho?",
+			"answer": "Marte"
+		},
+		{
+			"question": "Em qual galáxia está o Sistema Solar?",
+			"answer": "Via Láctea"
+		},
+		{
+			"question": "O que um ano-luz mede?",
+			"answer": "Distância",
+			"answerNote": "É a distância que a luz percorre em um ano, não uma medida de tempo."
+		},
+		{
+			"question": "Quanto tempo a luz do Sol leva, aproximadamente, para chegar à Terra?",
+			"answer": "8 minutos e 20 segundos",
+			"answerNote": "O valor médio é cerca de 8,3 minutos."
+		},
+		{
+			"question": "Quais dois algarismos são usados no sistema binário?",
+			"answer": "0 e 1"
+		},
+		{
+			"question": "Qual é a menor unidade de informação digital?",
+			"answer": "Bit"
+		},
+		{
+			"question": "O que significa a sigla CPU?",
+			"answer": "Unidade Central de Processamento",
+			"answerNote": "A sigla vem do inglês Central Processing Unit."
+		},
+		{
+			"question": "Como se chama uma sequência finita de instruções para resolver um problema?",
+			"answer": "Algoritmo"
+		},
+		{
+			"question": "Qual área da computação cria sistemas capazes de realizar tarefas associadas à inteligência humana?",
+			"answer": "Inteligência artificial"
+		},
+		{
+			"question": "Qual memória guarda temporariamente dados em uso pelo computador?",
+			"answer": "RAM",
+			"answerNote": "É volátil: seu conteúdo se perde quando o equipamento é desligado."
+		},
+		{
+			"question": "Como se chama a fabricação de objetos pela adição de camadas sucessivas?",
+			"answer": "Impressão 3D",
+			"answerNote": "Também é conhecida como fabricação aditiva."
+		},
+		{
+			"question": "Como é chamado um erro em um programa de computador?",
+			"answer": "Bug"
+		}
+	]
+}
