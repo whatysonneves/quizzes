@@ -1,0 +1,84 @@
+{
+	"title": "Conhecimentos gerais sobre o Nordeste brasileiro",
+	"description": "Teste seus conhecimentos sobre a geografia, a história, a cultura e as personalidades da região Nordeste do Brasil.",
+	"questions": [
+		{
+			"question": "Qual é o bioma predominante na região Nordeste?",
+			"answer": "Caatinga",
+			"answerNote": "A Caatinga é o único bioma exclusivamente brasileiro e ocupa grande parte do interior nordestino."
+		},
+		{
+			"question": "Qual é a capital da Bahia?",
+			"answer": "Salvador"
+		},
+		{
+			"question": "Qual é a capital de Pernambuco?",
+			"answer": "Recife"
+		},
+		{
+			"question": "Qual é a capital do Ceará?",
+			"answer": "Fortaleza"
+		},
+		{
+			"question": "Qual é a capital do Maranhão?",
+			"answer": "São Luís"
+		},
+		{
+			"question": "Qual é a capital da Paraíba?",
+			"answer": "João Pessoa"
+		},
+		{
+			"question": "Qual é a capital do Rio Grande do Norte?",
+			"answer": "Natal"
+		},
+		{
+			"question": "Qual é a capital de Alagoas?",
+			"answer": "Maceió"
+		},
+		{
+			"question": "Qual é a capital de Sergipe?",
+			"answer": "Aracaju"
+		},
+		{
+			"question": "Qual é a capital do Piauí?",
+			"answer": "Teresina",
+			"answerNote": "É a única capital nordestina que não está localizada no litoral."
+		},
+		{
+			"question": "Qual é a única capital nordestina que não está localizada no litoral?",
+			"answer": "Teresina"
+		},
+		{
+			"question": "Quem foi conhecido como o Rei do Baião?",
+			"answer": "Luiz Gonzaga",
+			"answerNote": "Foi um cantor, compositor e sanfoneiro pernambucano que ajudou a popularizar o baião e outros ritmos nordestinos."
+		},
+		{
+			"question": "Em qual estado fica a Chapada Diamantina?",
+			"answer": "Bahia"
+		},
+		{
+			"question": "Qual é o nome da famosa festa popular de Campina Grande, na Paraíba?",
+			"answer": "O Maior São João do Mundo",
+			"answerNote": "Ou `São João de Campina Grande`."
+		},
+		{
+			"question": "Qual estado nordestino é conhecido como a terra dos Lençóis Maranhenses?",
+			"answer": "Maranhão"
+		},
+		{
+			"question": "Qual é o nome do arquipélago pernambucano famoso por suas praias e vida marinha?",
+			"answer": "Fernando de Noronha"
+		},
+		{
+			"question": "Quem foi Maria Bonita?",
+			"answer": "Uma figura histórica do cangaço",
+			"answerNote": "Foi companheira de Lampião e uma das mulheres mais conhecidas do movimento do cangaço."
+		},
+		{
+			"question": "Qual é o nome do famoso ritmo musical pernambucano marcado por sombrinhas coloridas e passos acrobáticos?",
+			"answer": "Frevo",
+			"answerNote": "É uma manifestação cultural muito ligada ao Carnaval de Pernambuco e reconhecida como Patrimônio Cultural Imaterial da Humanidade pela UNESCO."
+		}
+	]
+}
