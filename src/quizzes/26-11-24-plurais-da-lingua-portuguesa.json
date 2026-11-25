@@ -1,0 +1,149 @@
+{
+	"title": "Plurais da língua portuguesa",
+	"questions": [
+		{
+			"question": "Adeus",
+			"answer": "Adeuses"
+		},
+		{
+			"question": "Anel",
+			"answer": "Anéis"
+		},
+		{
+			"question": "Ar-condicionado",
+			"answer": "Ares-condicionados"
+		},
+		{
+			"question": "Arco-íris",
+			"answer": "Arcos-íris"
+		},
+		{
+			"question": "Arroz",
+			"answer": "Arrozes"
+		},
+		{
+			"question": "Barril",
+			"answer": "Barris"
+		},
+		{
+			"question": "Calça verde-musgo",
+			"answer": "Calças verde-musgo"
+		},
+		{
+			"question": "Caráter",
+			"answer": "Caracteres"
+		},
+		{
+			"question": "Cidadão",
+			"answer": "Cidadãos"
+		},
+		{
+			"question": "Cônsul",
+			"answer": "Cônsules"
+		},
+		{
+			"question": "Degrau",
+			"answer": "Degraus"
+		},
+		{
+			"question": "Escrivão",
+			"answer": "Escrivães"
+		},
+		{
+			"question": "Gravidez",
+			"answer": "Gravidezes"
+		},
+		{
+			"question": "Guarda-chuva",
+			"answer": "Guarda-chuvas"
+		},
+		{
+			"question": "Guarda-costas",
+			"answer": "Guarda-costas",
+			"answerNote": "não muda"
+		},
+		{
+			"question": "João-de-barro",
+			"answer": "Joões-de-barro"
+		},
+		{
+			"question": "Júnior",
+			"answer": "Juniores"
+		},
+		{
+			"question": "Luau",
+			"answer": "Luaus"
+		},
+		{
+			"question": "Mal",
+			"questionNote": "Mal de estar mal",
+			"answer": "Males"
+		},
+		{
+			"question": "Mal-estar",
+			"answer": "Mal-estares"
+		},
+		{
+			"question": "Mau",
+			"questionNote": "Mau de ser mau",
+			"answer": "Maus"
+		},
+		{
+			"question": "Mau-caráter",
+			"answer": "Maus-caracteres"
+		},
+		{
+			"question": "Meia-lua",
+			"answer": "Meias-luas"
+		},
+		{
+			"question": "Meio-fio",
+			"answer": "Meios-fios"
+		},
+		{
+			"question": "Primeiro-ministro",
+			"answer": "Primeiros-ministros"
+		},
+		{
+			"question": "Pôr do sol",
+			"answer": "Pores-do-sol"
+		},
+		{
+			"question": "Qualquer",
+			"answer": "Quaisquer"
+		},
+		{
+			"question": "Quartel",
+			"answer": "Quartéis"
+		},
+		{
+			"question": "Tabelião",
+			"answer": "Tabeliães"
+		},
+		{
+			"question": "Troféu",
+			"answer": "Troféus"
+		},
+		{
+			"question": "Tênis azul-claro",
+			"answer": "Tênis azul-claros"
+		},
+		{
+			"question": "Véu",
+			"answer": "Véus"
+		},
+		{
+			"question": "Vírus",
+			"answer": "Vírus",
+			"answerNote": "não muda"
+		},
+		{
+			"question": "Xadrez",
+			"answer": "Xadrezes"
+		},
+		{
+			"question": "Zé-ninguém",
+			"answer": "Zés-ninguém"
+		}
+	]
+}

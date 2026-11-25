@@ -1,0 +1,33 @@
+# quizzes.sou.ninja
+
+App de quiz com flashcards no navegador. Sem backend, sem login, sem sincronização: o progresso mora no `localStorage` e morre com ele.
+
+## Rodar
+
+```bash
+npm install
+npm run dev
+```
+
+`npm run build` gera `dist/`; `npm run preview` serve o resultado.
+
+## Adicionar um quiz
+
+Crie `src/quizzes/yy-mm-dd-{slug}.json`:
+
+```json
+{
+  "title": "Título do quiz",
+  "description": "Opcional. Se não há o que dizer, não diga.",
+  "questions": [
+    { "question": "Guarda-chuva", "answer": "Guarda-chuvas" },
+    { "question": "Vírus", "answer": "Vírus", "answerNote": "não muda" }
+  ]
+}
+```
+
+`questionNote` também é opcional. Data e identificador vêm do nome do arquivo.
+
+A ordem das perguntas é sorteada uma vez por navegador e depois congela. Se você reordenar o array `questions`, os navegadores que já abriram o quiz continuarão usando a ordem antiga com os índices novos.
+
+Renomear o slug apaga o progresso daquele quiz naquele navegador. Trocar apenas a data do prefixo não apaga, mas muda a posição na lista. O ano de dois dígitos é lido como `20yy`; século XIX fica para o próximo sprint.
