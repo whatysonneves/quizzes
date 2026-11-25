@@ -1,0 +1,112 @@
+{
+	"title": "Regiões do Brasil: Nordeste",
+	"description": "Perguntas sobre os estados, a geografia, a história e a cultura da região Nordeste do Brasil.",
+	"questions": [
+		{
+			"question": "Quantos estados formam a região Nordeste?",
+			"answer": "Nove estados."
+		},
+		{
+			"question": "Qual é a capital de Alagoas?",
+			"answer": "Maceió"
+		},
+		{
+			"question": "Qual é a capital da Bahia?",
+			"answer": "Salvador"
+		},
+		{
+			"question": "Qual é a capital do Ceará?",
+			"answer": "Fortaleza"
+		},
+		{
+			"question": "Qual é a capital do Maranhão?",
+			"answer": "São Luís"
+		},
+		{
+			"question": "Qual é a capital da Paraíba?",
+			"answer": "João Pessoa"
+		},
+		{
+			"question": "Qual é a capital de Pernambuco?",
+			"answer": "Recife"
+		},
+		{
+			"question": "Qual é a capital do Piauí?",
+			"answer": "Teresina",
+			"answerNote": "É a única capital estadual do Nordeste que não fica no litoral."
+		},
+		{
+			"question": "Qual é a capital do Rio Grande do Norte?",
+			"answer": "Natal"
+		},
+		{
+			"question": "Qual é a capital de Sergipe?",
+			"answer": "Aracaju"
+		},
+		{
+			"question": "Qual é a única capital nordestina que não está localizada no litoral?",
+			"answer": "Teresina"
+		},
+		{
+			"question": "Qual bioma exclusivamente brasileiro ocupa grande parte do interior nordestino?",
+			"answer": "Caatinga"
+		},
+		{
+			"question": "Em qual estado fica o Parque Nacional dos Lençóis Maranhenses?",
+			"answer": "Maranhão",
+			"answerNote": "O parque tem dunas e lagoas sazonais e foi reconhecido como Patrimônio Mundial Natural pela UNESCO em 2024."
+		},
+		{
+			"question": "Qual rio importante atravessa áreas do Nordeste e deságua no oceano Atlântico?",
+			"answer": "Rio São Francisco"
+		},
+		{
+			"question": "Qual arquipélago pernambucano é conhecido pela vida marinha e por suas praias?",
+			"answer": "Fernando de Noronha"
+		},
+		{
+			"question": "Qual parque nacional do Piauí abriga sítios arqueológicos e pinturas rupestres?",
+			"answer": "Parque Nacional da Serra da Capivara"
+		},
+		{
+			"question": "Qual ritmo pernambucano é tradicional no Carnaval e costuma ser dançado com sombrinhas coloridas?",
+			"answer": "Frevo"
+		},
+		{
+			"question": "Quem ficou conhecido como o Rei do Baião?",
+			"answer": "Luiz Gonzaga",
+			"answerNote": "Cantor, compositor e sanfoneiro nascido em Exu, Pernambuco."
+		},
+		{
+			"question": "Qual manifestação do Carnaval de Olinda é conhecida por seus bonecos gigantes?",
+			"answer": "Desfile dos bonecos gigantes de Olinda"
+		},
+		{
+			"question": "Em qual estado fica a Chapada Diamantina?",
+			"answer": "Bahia"
+		},
+		{
+			"question": "Qual cidade baiana é uma das principais portas de entrada para a Chapada Diamantina?",
+			"answer": "Lençóis",
+			"answerNote": "A cidade preserva um conjunto histórico ligado ao ciclo do garimpo de diamantes."
+		},
+		{
+			"question": "Qual é o nome da famosa festa popular de Campina Grande, na Paraíba?",
+			"answer": "O Maior São João do Mundo",
+			"answerNote": "Ou `São João de Campina Grande`."
+		},
+		{
+			"question": "Qual cidade maranhense tem um centro histórico reconhecido como Patrimônio Mundial?",
+			"answer": "São Luís"
+		},
+		{
+			"question": "Quem foi Maria Bonita?",
+			"answer": "Uma figura histórica do cangaço",
+			"answerNote": "Foi companheira de Lampião e uma das mulheres mais conhecidas do movimento do cangaço."
+		},
+		{
+			"question": "Qual cidade pernambucana vizinha a Recife tem um centro histórico reconhecido como Patrimônio Mundial?",
+			"answer": "Olinda"
+		}
+	]
+}

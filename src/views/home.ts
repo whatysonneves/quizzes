@@ -75,10 +75,35 @@ export function renderHome(options: HomeViewOptions): HTMLElement {
 		list.className = "quiz-list";
 		for (const quiz of options.quizzes) {
 			const status = options.progress[quiz.slug]?.status;
-			const card = document.createElement("button");
-			card.type = "button";
+			const questionCount = quiz.questions.length;
+			const card = document.createElement("div");
 			card.className = `quiz-card${status === "opened" ? " is-opened" : ""}${status === "complete" ? " is-complete" : ""}`;
-			card.addEventListener("click", () => options.onOpenQuiz(quiz.slug));
+
+			let pointerStart: { x: number; y: number } | null = null;
+			card.addEventListener("pointerdown", (event) => {
+				pointerStart = { x: event.clientX, y: event.clientY };
+			});
+			card.addEventListener("click", (event) => {
+				const selection = window.getSelection();
+				if (selection && selection.toString().trim() !== "") return;
+				if (pointerStart) {
+					const moved = Math.hypot(
+						event.clientX - pointerStart.x,
+						event.clientY - pointerStart.y,
+					);
+					pointerStart = null;
+					if (moved > 6) return;
+				}
+				options.onOpenQuiz(quiz.slug);
+			});
+
+			const count = document.createElement("span");
+			count.className = "quiz-card-count";
+			count.textContent = String(questionCount);
+
+			const countLabel = document.createElement("span");
+			countLabel.className = "quiz-card-count-label";
+			countLabel.textContent = questionCount === 1 ? "pergunta" : "perguntas";
 
 			const cardCopy = document.createElement("span");
 			cardCopy.className = "quiz-card-copy";
@@ -92,20 +117,25 @@ export function renderHome(options: HomeViewOptions): HTMLElement {
 				: formatQuizDate(quiz);
 			cardCopy.append(cardTitle, metadata);
 
-			const cardAction = document.createElement("span");
-			cardAction.className = "quiz-card-action";
-			if (status === "opened") {
-				cardAction.classList.add("status-pill", "status-pill-opened");
-				cardAction.textContent = "Em andamento";
-			} else if (status === "complete") {
-				cardAction.classList.add("status-pill", "status-pill-complete");
-				cardAction.textContent = "Jogar de novo";
-			} else {
-				cardAction.classList.add("card-arrow");
-				cardAction.setAttribute("aria-hidden", "true");
-				cardAction.textContent = "↗";
-			}
-			card.append(cardCopy, cardAction);
+			const openButton = document.createElement("button");
+			openButton.type = "button";
+			openButton.className = "quiz-open-button";
+			const openIcon = document.createElement("span");
+			openIcon.className = "quiz-open-icon";
+			openIcon.setAttribute("aria-hidden", "true");
+			openIcon.textContent = "↗";
+			const openLabel = document.createElement("span");
+			openLabel.className = "sr-only";
+			openLabel.textContent = `${
+				status === "complete"
+					? "Jogar de novo"
+					: status === "opened"
+						? "Continuar"
+						: "Abrir"
+			}: ${quiz.title}`;
+			openButton.append(openIcon, openLabel);
+
+			card.append(count, countLabel, cardCopy, openButton);
 			list.append(card);
 		}
 		section.append(list);

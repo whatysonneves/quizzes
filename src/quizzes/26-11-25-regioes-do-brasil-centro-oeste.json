@@ -1,0 +1,99 @@
+{
+	"title": "Regiões do Brasil: Centro-Oeste",
+	"description": "Perguntas sobre os estados, a geografia, a história e a cultura da região Centro-Oeste do Brasil.",
+	"questions": [
+		{
+			"question": "Quantos estados formam a região Centro-Oeste?",
+			"answer": "Três: Goiás, Mato Grosso e Mato Grosso do Sul.",
+			"answerNote": "A região também inclui o Distrito Federal, que não é um estado."
+		},
+		{
+			"question": "Qual é a capital de Goiás?",
+			"answer": "Goiânia"
+		},
+		{
+			"question": "Qual é a capital de Mato Grosso?",
+			"answer": "Cuiabá"
+		},
+		{
+			"question": "Qual é a capital de Mato Grosso do Sul?",
+			"answer": "Campo Grande"
+		},
+		{
+			"question": "Qual é a capital do Distrito Federal?",
+			"answer": "Brasília"
+		},
+		{
+			"question": "Qual bioma predomina no Centro-Oeste?",
+			"answer": "Cerrado",
+			"answerNote": "O Cerrado também se estende por outras regiões do Brasil."
+		},
+		{
+			"question": "Qual grande planície alagável ocupa partes de Mato Grosso e Mato Grosso do Sul?",
+			"answer": "Pantanal"
+		},
+		{
+			"question": "Qual rio atravessa o Pantanal e segue em direção ao Paraguai?",
+			"answer": "Rio Paraguai"
+		},
+		{
+			"question": "Qual é o nome do parque nacional em Mato Grosso conhecido por suas cachoeiras e paredões?",
+			"answer": "Parque Nacional da Chapada dos Guimarães"
+		},
+		{
+			"question": "Qual parque nacional de Goiás é conhecido por trilhas, cachoeiras e paisagens do Cerrado?",
+			"answer": "Parque Nacional da Chapada dos Veadeiros"
+		},
+		{
+			"question": "Qual cidade de Mato Grosso do Sul é conhecida pelo ecoturismo em rios de águas cristalinas?",
+			"answer": "Bonito"
+		},
+		{
+			"question": "Qual fruta do Cerrado é muito usada em pratos típicos de Goiás?",
+			"answer": "Pequi"
+		},
+		{
+			"question": "Qual cidade goiana já foi capital do estado e hoje é Patrimônio Mundial?",
+			"answer": "Cidade de Goiás",
+			"answerNote": "Também é conhecida como Goiás Velho."
+		},
+		{
+			"question": "Qual cidade de Goiás é famosa por águas termais e parques aquáticos?",
+			"answer": "Caldas Novas"
+		},
+		{
+			"question": "Em que ano Brasília foi inaugurada?",
+			"answer": "1960",
+			"answerNote": "A inauguração oficial ocorreu em 21 de abril."
+		},
+		{
+			"question": "Qual presidente inaugurou Brasília?",
+			"answer": "Juscelino Kubitschek"
+		},
+		{
+			"question": "Quem projetou o Plano Piloto de Brasília?",
+			"answer": "Lúcio Costa"
+		},
+		{
+			"question": "Quem projetou muitos dos edifícios públicos mais conhecidos de Brasília?",
+			"answer": "Oscar Niemeyer"
+		},
+		{
+			"question": "Qual festa de Pirenópolis inclui as tradicionais Cavalhadas?",
+			"answer": "Festa do Divino Espírito Santo",
+			"answerNote": "As Cavalhadas encenam uma batalha entre cristãos e mouros."
+		},
+		{
+			"question": "Qual rio tem nascentes protegidas pelo Parque Nacional da Chapada dos Veadeiros e dá nome a um estado?",
+			"answer": "Rio Tocantins"
+		},
+		{
+			"question": "Qual monumento natural de Formosa, em Goiás, é conhecido por sua grande cachoeira?",
+			"answer": "Salto do Itiquira"
+		},
+		{
+			"question": "Qual vale de Goiás é conhecido por rochas esculpidas pelas águas do rio São Miguel?",
+			"answer": "Vale da Lua"
+		}
+	]
+}

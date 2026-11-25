@@ -1,0 +1,102 @@
+{
+	"title": "Regiões do Brasil: Norte",
+	"description": "Perguntas sobre os estados, a geografia, a história e a cultura da região Norte do Brasil.",
+	"questions": [
+		{
+			"question": "Quantos estados formam a região Norte?",
+			"answer": "Sete estados."
+		},
+		{
+			"question": "Qual é a capital do Acre?",
+			"answer": "Rio Branco"
+		},
+		{
+			"question": "Qual é a capital do Amapá?",
+			"answer": "Macapá"
+		},
+		{
+			"question": "Qual é a capital do Amazonas?",
+			"answer": "Manaus"
+		},
+		{
+			"question": "Qual é a capital do Pará?",
+			"answer": "Belém"
+		},
+		{
+			"question": "Qual é a capital de Rondônia?",
+			"answer": "Porto Velho"
+		},
+		{
+			"question": "Qual é a capital de Roraima?",
+			"answer": "Boa Vista"
+		},
+		{
+			"question": "Qual é a capital do Tocantins?",
+			"answer": "Palmas"
+		},
+		{
+			"question": "Qual é a maior floresta tropical do mundo, que ocupa grande parte da região Norte?",
+			"answer": "Floresta Amazônica"
+		},
+		{
+			"question": "Quais rios se encontram perto de Manaus e formam o chamado Encontro das Águas?",
+			"answer": "Rio Negro e rio Solimões"
+		},
+		{
+			"question": "Qual famoso teatro de Manaus foi inaugurado durante o ciclo da borracha, em 1896?",
+			"answer": "Teatro Amazonas"
+		},
+		{
+			"question": "Em qual cidade acontece o Círio de Nazaré?",
+			"answer": "Belém",
+			"answerNote": "A procissão religiosa ocorre em outubro e reúne milhões de participantes."
+		},
+		{
+			"question": "Em qual estado fica a ilha de Marajó, na foz do rio Amazonas?",
+			"answer": "Pará"
+		},
+		{
+			"question": "Qual é o maior estado brasileiro em extensão territorial?",
+			"answer": "Amazonas"
+		},
+		{
+			"question": "Qual rio dá nome ao estado de Tocantins?",
+			"answer": "Rio Tocantins"
+		},
+		{
+			"question": "Qual rio atravessa Rondônia e é um dos principais afluentes do Amazonas?",
+			"answer": "Rio Madeira"
+		},
+		{
+			"question": "Qual monte fica na tríplice fronteira entre Brasil, Venezuela e Guiana?",
+			"answer": "Monte Roraima",
+			"answerNote": "O monte fica no planalto das Guianas e seu território se estende pelos três países."
+		},
+		{
+			"question": "Qual é a principal atividade tradicional que dá nome ao ciclo econômico que marcou Manaus no fim do século XIX?",
+			"answer": "Extração e comércio da borracha"
+		},
+		{
+			"question": "Qual prato paraense é feito tradicionalmente com tucupi, jambu e camarão?",
+			"answer": "Pato no tucupi",
+			"answerNote": "Tacacá também combina tucupi e jambu, mas é servido como caldo."
+		},
+		{
+			"question": "Qual dança paraense é tradicionalmente acompanhada por tambores e saias rodadas?",
+			"answer": "Carimbó"
+		},
+		{
+			"question": "Qual estado do Norte tem a cidade de Alter do Chão, conhecida pelas praias de água doce?",
+			"answer": "Pará",
+			"answerNote": "Alter do Chão é um distrito do município de Santarém, às margens do rio Tapajós."
+		},
+		{
+			"question": "Qual é o nome do encontro entre os rios Tapajós e Amazonas, visível em Santarém?",
+			"answer": "Encontro das Águas de Santarém"
+		},
+		{
+			"question": "Qual bioma também está presente no Tocantins, além da Amazônia?",
+			"answer": "Cerrado"
+		}
+	]
+}

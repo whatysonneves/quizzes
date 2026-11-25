@@ -1,3 +1,5 @@
+import "@fontsource-variable/inter/wght.css";
+import "@fontsource-variable/inter/wght-italic.css";
 import "./styles.css";
 import { getOrder, getStatus, loadProgress, saveOrder, setStatus } from "./lib/progress";
 import { loadQuizzes, type QuizEntry } from "./lib/quizzes";
