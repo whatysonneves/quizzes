@@ -1,3 +1,4 @@
+import { renderMarkdown } from "../lib/markdown";
 import type { QuizEntry, QuizQuestion } from "../lib/quizzes";
 import type { Theme } from "../lib/theme";
 
@@ -82,12 +83,12 @@ export function renderGame(options: GameViewOptions): HTMLElement {
 	promptLabel.textContent = "Pergunta";
 	const question = document.createElement("h2");
 	question.className = "flashcard-question";
-	question.textContent = options.question.question;
+	renderMarkdown(question, options.question.question);
 	card.append(promptLabel, question);
 	if (options.question.questionNote?.trim()) {
 		const note = document.createElement("p");
 		note.className = "flashcard-note question-note";
-		note.textContent = options.question.questionNote;
+		renderMarkdown(note, options.question.questionNote);
 		card.append(note);
 	}
 	if (options.answerVisible) {
@@ -101,12 +102,12 @@ export function renderGame(options: GameViewOptions): HTMLElement {
 		answerLabel.textContent = "Resposta";
 		const answerText = document.createElement("p");
 		answerText.className = "flashcard-answer";
-		answerText.textContent = options.question.answer;
+		renderMarkdown(answerText, options.question.answer);
 		answer.append(divider, answerLabel, answerText);
 		if (options.question.answerNote?.trim()) {
 			const note = document.createElement("p");
 			note.className = "flashcard-note answer-note";
-			note.textContent = options.question.answerNote;
+			renderMarkdown(note, options.question.answerNote);
 			answer.append(note);
 		}
 		card.append(answer);

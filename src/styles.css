@@ -136,7 +136,22 @@ button:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
 	cursor: pointer;
 }
 .quiz-open-button:hover { border-color: var(--line); background: var(--surface-soft); }
+.quiz-open-button.has-status {
+	display: inline-flex;
+	width: auto;
+	min-height: 36px;
+	gap: 7px;
+	padding: 0 12px;
+	border-color: var(--line);
+	background: var(--surface-soft);
+	color: var(--text);
+	font-size: 11px;
+	font-weight: 400;
+	white-space: nowrap;
+}
+.quiz-open-button.has-status:hover { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); }
 .quiz-open-icon { font-size: 20px; line-height: 1; }
+.quiz-open-label { line-height: 1; }
 .sr-only {
 	position: absolute;
 	width: 1px;
@@ -191,7 +206,7 @@ button:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
 	text-align: center;
 }
 .flashcard-eyebrow { margin: 0 0 12px; color: var(--accent); font-size: 11px; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
-.flashcard-question { max-width: 620px; margin: 0; font: 800 clamp(30px, 6vw, 56px)/1.12 "Inter Variable", ui-sans-serif, system-ui, sans-serif; letter-spacing: -.045em; overflow-wrap: anywhere; }
+.flashcard-question { max-width: 620px; margin: 0; font: 600 clamp(30px, 6vw, 56px)/1.12 "Inter Variable", ui-sans-serif, system-ui, sans-serif; letter-spacing: -.045em; overflow-wrap: anywhere; }
 .flashcard-note { max-width: 560px; margin: 13px 0 0; color: var(--muted); font-size: 16px; line-height: 1.55; }
 .flashcard-answer-block { display: flex; width: min(100%, 620px); flex-direction: column; align-items: center; margin-top: 28px; animation: reveal .22s ease-out; }
 .answer-divider { width: 48px; height: 3px; margin-bottom: 21px; border-radius: 99px; background: var(--highlight); }
@@ -199,6 +214,10 @@ button:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
 :root[data-theme="dark"] .answer-eyebrow { color: var(--highlight); }
 .flashcard-answer { margin: 0; color: var(--accent); font: 700 clamp(22px, 4vw, 34px)/1.3 "Inter Variable", ui-sans-serif, system-ui, sans-serif; overflow-wrap: anywhere; }
 .answer-note { margin-top: 7px; font-size: 16px; }
+.flashcard strong { font-weight: 800; }
+.flashcard em { font-style: italic; }
+.flashcard u { text-decoration: underline; text-underline-offset: .15em; }
+.flashcard code { padding: .08em .35em; border-radius: 6px; background: var(--surface-soft); font: 600 .85em ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
 .game-controls { display: flex; gap: 0; width: 100%; margin-top: 18px; }
 .game-control { width: 50%; min-height: 56px; border: 0; border-radius: 13px; font-weight: 800; cursor: pointer; transition: background .16s ease, opacity .16s ease, transform .16s ease; }
 .game-control:active:not(:disabled) { transform: scale(.99); }
@@ -229,6 +248,7 @@ button:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
 	.quiz-card-title { font-size: 13px; }
 	.quiz-card-meta { font-size: 10px; }
 	.quiz-open-button { width: 34px; min-height: 34px; }
+	.quiz-open-button.has-status { min-height: 33px; padding: 0 9px; font-size: 10px; }
 	.game-page { padding: max(16px, env(safe-area-inset-top)) 14px max(14px, env(safe-area-inset-bottom)); }
 	.game-header { align-items: center; }
 	.game-heading-group { gap: 9px; }

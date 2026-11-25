@@ -17,16 +17,26 @@ Crie `src/quizzes/yy-mm-dd-{slug}.json`:
 
 ```json
 {
-  "title": "Título do quiz",
-  "description": "Opcional. Se não há o que dizer, não diga.",
-  "questions": [
-    { "question": "Guarda-chuva", "answer": "Guarda-chuvas" },
-    { "question": "Vírus", "answer": "Vírus", "answerNote": "não muda" }
-  ]
+	"title": "Título do quiz",
+	"description": "Opcional. Se não há o que dizer, não diga.",
+	"questions": [
+		{
+			"question": "Mal",
+			"questionNote": "Mal de estar mal",
+			"answer": "Males"
+		},
+		{
+			"question": "Vírus",
+			"answer": "Vírus",
+			"answerNote": "não muda"
+		}
+	]
 }
 ```
 
-`questionNote` também é opcional. Data e identificador vêm do nome do arquivo.
+`questionNote` e `answerNote` são opcionais.
+
+Em pergunta, resposta e notas, aceito markdown mínimo: `**negrito**`, `*itálico*`, `_sublinhado_`, `` `código` `` e quebra de linha. O resto é texto puro.
 
 A ordem das perguntas é sorteada uma vez por navegador e depois congela. Se você reordenar o array `questions`, os navegadores que já abriram o quiz continuarão usando a ordem antiga com os índices novos.
 

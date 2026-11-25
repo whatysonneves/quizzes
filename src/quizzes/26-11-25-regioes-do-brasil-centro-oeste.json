@@ -24,7 +24,28 @@
 			"answer": "Brasília"
 		},
 		{
-			"question": "Qual bioma predomina no Centro-Oeste?",
+			"question": "Em que ano Brasília foi inaugurada?",
+			"answer": "1960",
+			"answerNote": "A inauguração oficial ocorreu em 21 de abril."
+		},
+		{
+			"question": "Qual presidente brasileiro idealizou e promoveu a construção de Brasília?",
+			"answer": "Juscelino Kubitschek"
+		},
+		{
+			"question": "Quem foi o arquiteto responsável pelo projeto urbanístico de Brasília?",
+			"answer": "Lúcio Costa"
+		},
+		{
+			"question": "Quem foi o principal arquiteto responsável pelos edifícios monumentais de Brasília?",
+			"answer": "Oscar Niemeyer"
+		},
+		{
+			"question": "Qual é o nome do estádio de futebol mais conhecido de Brasília?",
+			"answer": "Estádio Nacional Mané Garrincha"
+		},
+		{
+			"question": "Qual bioma predominante no Centro-Oeste?",
 			"answer": "Cerrado",
 			"answerNote": "O Cerrado também se estende por outras regiões do Brasil."
 		},
@@ -33,12 +54,16 @@
 			"answer": "Pantanal"
 		},
 		{
-			"question": "Qual rio atravessa o Pantanal e segue em direção ao Paraguai?",
+			"question": "Qual é o principal rio que atravessa a região do Pantanal?",
 			"answer": "Rio Paraguai"
 		},
 		{
-			"question": "Qual é o nome do parque nacional em Mato Grosso conhecido por suas cachoeiras e paredões?",
+			"question": "Qual é o famoso parque nacional localizado entre Mato Grosso e Mato Grosso do Sul, conhecido por suas cachoeiras e paisagens?",
 			"answer": "Parque Nacional da Chapada dos Guimarães"
+		},
+		{
+			"question": "Qual parque estadual entre São Domingos e Guarani de Goiás, no nordeste de Goiás, é conhecido por seu complexo de cavernas e grutas?",
+			"answer": "Parque Estadual de Terra Ronca (PETeR)"
 		},
 		{
 			"question": "Qual parque nacional de Goiás é conhecido por trilhas, cachoeiras e paisagens do Cerrado?",
@@ -49,7 +74,7 @@
 			"answer": "Bonito"
 		},
 		{
-			"question": "Qual fruta do Cerrado é muito usada em pratos típicos de Goiás?",
+			"question": "Qual fruta do Cerrado é muito usada em pratos típicos de Goiás e possui sabor marcante?",
 			"answer": "Pequi"
 		},
 		{
@@ -60,23 +85,6 @@
 		{
 			"question": "Qual cidade de Goiás é famosa por águas termais e parques aquáticos?",
 			"answer": "Caldas Novas"
-		},
-		{
-			"question": "Em que ano Brasília foi inaugurada?",
-			"answer": "1960",
-			"answerNote": "A inauguração oficial ocorreu em 21 de abril."
-		},
-		{
-			"question": "Qual presidente inaugurou Brasília?",
-			"answer": "Juscelino Kubitschek"
-		},
-		{
-			"question": "Quem projetou o Plano Piloto de Brasília?",
-			"answer": "Lúcio Costa"
-		},
-		{
-			"question": "Quem projetou muitos dos edifícios públicos mais conhecidos de Brasília?",
-			"answer": "Oscar Niemeyer"
 		},
 		{
 			"question": "Qual festa de Pirenópolis inclui as tradicionais Cavalhadas?",

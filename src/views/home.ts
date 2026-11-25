@@ -124,16 +124,25 @@ export function renderHome(options: HomeViewOptions): HTMLElement {
 			openIcon.className = "quiz-open-icon";
 			openIcon.setAttribute("aria-hidden", "true");
 			openIcon.textContent = "↗";
-			const openLabel = document.createElement("span");
-			openLabel.className = "sr-only";
-			openLabel.textContent = `${
+			const statusLabel =
 				status === "complete"
 					? "Jogar de novo"
 					: status === "opened"
-						? "Continuar"
-						: "Abrir"
-			}: ${quiz.title}`;
-			openButton.append(openIcon, openLabel);
+						? "Em andamento"
+						: null;
+			if (statusLabel) {
+				openButton.classList.add("has-status");
+				const visibleLabel = document.createElement("span");
+				visibleLabel.className = "quiz-open-label";
+				visibleLabel.textContent = statusLabel;
+				openButton.append(openIcon, visibleLabel);
+				openButton.setAttribute("aria-label", `${statusLabel}: ${quiz.title}`);
+			} else {
+				const openLabel = document.createElement("span");
+				openLabel.className = "sr-only";
+				openLabel.textContent = `Abrir: ${quiz.title}`;
+				openButton.append(openIcon, openLabel);
+			}
 
 			card.append(count, countLabel, cardCopy, openButton);
 			list.append(card);
