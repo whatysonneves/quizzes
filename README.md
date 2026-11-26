@@ -40,4 +40,6 @@ Em pergunta, resposta e notas, aceito markdown mínimo: `**negrito**`, `*itálic
 
 A ordem das perguntas é sorteada uma vez por navegador e depois congela. Se você reordenar o array `questions`, os navegadores que já abriram o quiz continuarão usando a ordem antiga com os índices novos.
 
+Ao abrir um quiz em andamento, um modal pergunta se quer continuar de onde parou ou começar do zero. Quiz concluído tem modal próprio.
+
 Renomear o slug apaga o progresso daquele quiz naquele navegador. Trocar apenas a data do prefixo não apaga, mas muda a posição na lista. O ano de dois dígitos é lido como `20yy`; século XIX fica para o próximo sprint.

@@ -12,6 +12,8 @@ export interface QuizProgress {
 	order: number[];
 	/** Ausente = nunca aberto; `opened` = aberto parcial; `complete` = concluído. */
 	status?: QuizStatus;
+	/** Última posição (1-based, na ordem sorteada) em que a resposta foi vista. */
+	lastViewed?: number;
 }
 
 const STORAGE_KEY = "quizzes:progress:v1";
@@ -47,6 +49,13 @@ function readMap(): Record<string, QuizProgress> {
 			const progress: QuizProgress = { order: entry.order as number[] };
 			if (entry.status === "opened" || entry.status === "complete") {
 				progress.status = entry.status;
+			}
+			if (
+				typeof entry.lastViewed === "number" &&
+				Number.isSafeInteger(entry.lastViewed) &&
+				entry.lastViewed >= 1
+			) {
+				progress.lastViewed = entry.lastViewed;
 			}
 			out[slug] = progress;
 		}
@@ -109,5 +118,27 @@ export function setStatus(slug: string, status: QuizStatus): void {
 		window.localStorage.setItem(STORAGE_KEY, JSON.stringify(map));
 	} catch {
 		// storage indisponível: o estado não persiste, o app continua em memória
+	}
+}
+
+/** Última posição visualizada (1-based), ou `null` se nunca houve uma resposta vista. */
+export function getLastViewed(slug: string): number | null {
+	const value = readMap()[slug]?.lastViewed;
+	return typeof value === "number" ? value : null;
+}
+
+/** Salva a posição (1-based) da resposta que acabou de ser revelada. */
+export function setLastViewed(slug: string, position: number): void {
+	try {
+		const map = readMap();
+		const current = map[slug];
+		map[slug] = {
+			order: current?.order ?? [],
+			...(current?.status !== undefined ? { status: current.status } : {}),
+			lastViewed: position,
+		};
+		window.localStorage.setItem(STORAGE_KEY, JSON.stringify(map));
+	} catch {
+		// storage indisponível: a posição não persiste, o app continua em memória
 	}
 }

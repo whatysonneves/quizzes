@@ -1,13 +1,14 @@
 import "@fontsource-variable/inter/wght.css";
 import "@fontsource-variable/inter/wght-italic.css";
 import "./styles.css";
-import { getOrder, getStatus, loadProgress, saveOrder, setStatus } from "./lib/progress";
+import { getLastViewed, getOrder, getStatus, loadProgress, saveOrder, setLastViewed, setStatus } from "./lib/progress";
 import { loadQuizzes, type QuizEntry } from "./lib/quizzes";
-import { navigateToHome, parseRoute } from "./lib/router";
+import { navigateToHome, navigateToQuiz, parseRoute } from "./lib/router";
 import { cycleTheme, initTheme, watchSystemTheme, type Theme } from "./lib/theme";
 import { renderGame } from "./views/game";
 import { renderHome } from "./views/home";
 import { confirmRestart } from "./views/restart-dialog";
+import { chooseResume } from "./views/resume-dialog";
 import { showNoUnfinishedQuizzesAlert } from "./views/alerts";
 
 const appRoot = document.querySelector<HTMLDivElement>("#app");
@@ -17,10 +18,17 @@ const root = appRoot; // tipo HTMLDivElement (não nulo) para uso em closures
 const quizzes = loadQuizzes();
 let theme: Theme = initTheme();
 let routeVersion = 0;
+let activeQuizSlug: string | null = null;
 watchSystemTheme();
 
 function quizBySlug(slug: string): QuizEntry | undefined {
 	return quizzes.find((quiz) => quiz.slug === slug);
+}
+
+/** Abre um quiz na última posição salva; quizzes concluídos recomeçam do 1. */
+function openQuiz(slug: string): void {
+	const page = getStatus(slug) === "complete" ? 1 : (getLastViewed(slug) ?? 1);
+	navigateToQuiz(slug, page);
 }
 
 function toggleTheme(render: () => void): void {
@@ -34,9 +42,7 @@ function renderHomePage(): void {
 			quizzes,
 			progress: loadProgress(),
 			theme,
-			onOpenQuiz: (slug) => {
-				window.location.hash = `/quiz/${encodeURIComponent(slug)}`;
-			},
+			onOpenQuiz: openQuiz,
 				onRandomQuiz: () => {
 					const progress = loadProgress();
 					const unfinished = quizzes.filter((quiz) => progress[quiz.slug]?.status !== "complete");
@@ -45,7 +51,7 @@ function renderHomePage(): void {
 						return;
 					}
 					const selected = unfinished[Math.floor(Math.random() * unfinished.length)];
-					window.location.hash = `/quiz/${encodeURIComponent(selected.slug)}`;
+					openQuiz(selected.slug);
 				},
 			onToggleTheme: () => toggleTheme(renderHomePage),
 		}),
@@ -61,11 +67,15 @@ function shuffledOrder(length: number): number[] {
 	return order;
 }
 
-function renderGamePage(quiz: QuizEntry): void {
+function renderGamePage(quiz: QuizEntry, initialPage: number): void {
 	const order = getOrder(quiz.slug, quiz.questions.length) ?? shuffledOrder(quiz.questions.length);
 	saveOrder(quiz.slug, order);
-	let index = 0;
+	setLastViewed(quiz.slug, initialPage);
+	let index = initialPage - 1;
 	let answerVisible = false;
+	const goToPage = (nextIndex: number): void => {
+		navigateToQuiz(quiz.slug, nextIndex + 1);
+	};
 	const lastNavigationActionAt = {
 		back: Number.NEGATIVE_INFINITY,
 		advance: Number.NEGATIVE_INFINITY,
@@ -94,7 +104,8 @@ function renderGamePage(quiz: QuizEntry): void {
 					if (answerVisible) {
 						answerVisible = false;
 					} else if (index > 0) {
-						index -= 1;
+						goToPage(index - 1);
+						return;
 					} else {
 						navigateToHome();
 						return;
@@ -105,17 +116,13 @@ function renderGamePage(quiz: QuizEntry): void {
 					if (!acceptNavigationAction("advance")) return;
 					if (!answerVisible) {
 						answerVisible = true;
-						if (index === order.length - 1) {
-							setStatus(quiz.slug, "complete");
-						} else {
-							setStatus(quiz.slug, "opened");
-						}
+						setStatus(quiz.slug, index === order.length - 1 ? "complete" : "opened");
 					} else if (index === order.length - 1) {
 						navigateToHome();
 						return;
 					} else {
-						index += 1;
-						answerVisible = false;
+						goToPage(index + 1);
+						return;
 					}
 					draw();
 				},
@@ -129,30 +136,65 @@ function renderGamePage(quiz: QuizEntry): void {
 async function renderRoute(): Promise<void> {
 	const version = ++routeVersion;
 	const route = parseRoute();
-	if (route.name === "home") {
-		renderHomePage();
-		return;
-	}
-	if (route.name === "not-found") {
-		navigateToHome();
+	if (route.name !== "quiz") {
+		activeQuizSlug = null;
+		if (route.name === "not-found") navigateToHome();
+		else renderHomePage();
 		return;
 	}
 
 	const quiz = quizBySlug(route.slug);
 	if (!quiz) {
+		activeQuizSlug = null;
 		navigateToHome();
 		return;
 	}
-	if (getStatus(quiz.slug) === "complete") {
+
+	const page = route.page ?? getLastViewed(quiz.slug) ?? 1;
+	if (!Number.isSafeInteger(page) || page < 1 || page > quiz.questions.length) {
+		activeQuizSlug = null;
+		navigateToHome();
+		return;
+	}
+	if (route.page === undefined) {
+		navigateToQuiz(quiz.slug, page);
+		return;
+	}
+
+	const isSameQuiz = activeQuizSlug === quiz.slug;
+	const status = getStatus(quiz.slug);
+	if (!isSameQuiz && status === "complete") {
 		const shouldRestart = await confirmRestart(quiz.title);
 		if (version !== routeVersion) return;
 		if (!shouldRestart) {
+			activeQuizSlug = null;
 			navigateToHome();
 			return;
 		}
 		setStatus(quiz.slug, "opened");
+		setLastViewed(quiz.slug, 1);
+		activeQuizSlug = quiz.slug;
+		renderGamePage(quiz, 1);
+		return;
 	}
-	renderGamePage(quiz);
+	if (!isSameQuiz && status === "opened") {
+		const choice = await chooseResume(quiz.title, page);
+		if (version !== routeVersion) return;
+		if (choice === "cancel") {
+			activeQuizSlug = null;
+			navigateToHome();
+			return;
+		}
+		if (choice === "restart") {
+			setLastViewed(quiz.slug, 1);
+			activeQuizSlug = quiz.slug;
+			renderGamePage(quiz, 1);
+			return;
+		}
+	}
+
+	activeQuizSlug = quiz.slug;
+	renderGamePage(quiz, page);
 }
 
 window.addEventListener("hashchange", () => void renderRoute());
