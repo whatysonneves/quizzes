@@ -46,8 +46,8 @@
 		},
 		{
 			"question": "O que caracteriza um número primo?",
-			"answer": "Tem exatamente dois divisores positivos",
-			"answerNote": "São 1 e o próprio número. O número 1 não é primo."
+			"answer": "É divisível exatamente por 1 e por si mesmo",
+			"answerNote": "Consideram-se divisores positivos. O número 1 não é primo."
 		},
 		{
 			"question": "Como se chama o número que fica abaixo do traço em uma fração?",

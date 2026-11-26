@@ -42,7 +42,7 @@
 		},
 		{
 			"question": "Qual é o nome do estádio de futebol mais conhecido de Brasília?",
-			"answer": "Estádio Nacional Mané Garrincha"
+			"answer": "Arena Mané Garrincha"
 		},
 		{
 			"question": "Qual bioma predominante no Centro-Oeste?",
@@ -58,7 +58,7 @@
 			"answer": "Rio Paraguai"
 		},
 		{
-			"question": "Qual é o famoso parque nacional localizado entre Mato Grosso e Mato Grosso do Sul, conhecido por suas cachoeiras e paisagens?",
+			"question": "Qual é o famoso parque nacional localizado no Mato Grosso, conhecido por suas cachoeiras e paisagens?",
 			"answer": "Parque Nacional da Chapada dos Guimarães"
 		},
 		{
@@ -96,12 +96,17 @@
 			"answer": "Rio Tocantins"
 		},
 		{
-			"question": "Qual monumento natural de Formosa, em Goiás, é conhecido por sua grande cachoeira?",
+			"question": "Qual famosa cachoeira de Formosa, em Goiás, é uma das principais atrações naturais da região?",
 			"answer": "Salto do Itiquira"
 		},
 		{
 			"question": "Qual vale de Goiás é conhecido por rochas esculpidas pelas águas do rio São Miguel?",
 			"answer": "Vale da Lua"
+		},
+		{
+			"question": "Qual é o nome oficial do monumento localizado às margens da BR-040, próximo a Santa Maria/DF, popularmente conhecido como **Chifrudo**?",
+			"answer": "Monumento Solarius",
+			"answerNote": "Também conhecido como \"Pioneiros Candangos\", o monumento foi criado pelo escultor francês Ange Falchi e doado pela França ao Brasil, em 1967."
 		}
 	]
 }

@@ -1,5 +1,6 @@
 {
-	"title": "Plurais da língua portuguesa",
+	"title": "Gramática: Plurais",
+	"description": "Exemplos de formação do plural em palavras da língua portuguesa.",
 	"questions": [
 		{
 			"question": "Adeus",
@@ -106,7 +107,7 @@
 		},
 		{
 			"question": "Pôr do sol",
-			"answer": "Pores-do-sol"
+			"answer": "Pores do sol"
 		},
 		{
 			"question": "Qualquer",

@@ -1,0 +1,188 @@
+{
+	"title": "Animais",
+	"description": "Perguntas de conhecimentos gerais sobre animais, suas características, habitats e relações com os seres humanos.",
+	"questions": [
+		{
+			"question": "A qual grupo de artrópodes pertencem os animais que têm **oito patas**, como aranhas e escorpiões?",
+			"answer": "Aracnídeos",
+			"answerNote": "Aranhas não são insetos: os insetos têm seis patas, enquanto aracnídeos adultos geralmente têm oito."
+		},
+		{
+			"question": "Qual é o maior réptil vivo do mundo?",
+			"answer": "Crocodilo-de-água-salgada",
+			"answerNote": "Também chamado de crocodilo-marinho, pode ultrapassar seis metros de comprimento."
+		},
+		{
+			"question": "Como se chama o grupo de animais vertebrados que inclui sapos, rãs e salamandras?",
+			"answer": "Anfíbios"
+		},
+		{
+			"question": "Quantas patas têm os insetos adultos, em geral?",
+			"answer": "Seis"
+		},
+		{
+			"question": "Qual mamífero põe ovos e possui bico semelhante ao de um pato?",
+			"answer": "Ornitorrinco"
+		},
+		{
+			"question": "Qual é o maior animal conhecido que já viveu na Terra?",
+			"answer": "Baleia-azul",
+			"answerNote": "Ela é maior que qualquer dinossauro conhecido e pode passar de 30 metros de comprimento."
+		},
+		{
+			"question": "Qual grupo de animais é conhecido por ter o corpo dividido em cabeça, tórax e abdômen, além de três pares de patas?",
+			"answer": "Insetos"
+		},
+		{
+			"question": "Qual réptil pode mudar a cor da pele e mover cada olho em uma direção diferente?",
+			"answer": "Camaleão",
+			"answerNote": "A mudança de cor também pode servir para comunicação e regulação da temperatura, não apenas para camuflagem."
+		},
+		{
+			"question": "Qual é o único mamífero capaz de voo ativo e sustentado?",
+			"answer": "Morcego",
+			"answerNote": "Esquilos-voadores planam, mas não batem as asas para voar como os morcegos."
+		},
+		{
+			"question": "Qual animal é considerado o mais abundante entre os insetos sociais, com estimativas de cerca de 20 quadrilhões de indivíduos no planeta?",
+			"answer": "Formiga",
+			"answerNote": "É uma estimativa científica global, não uma contagem exata; ela se refere às formigas, não a todos os animais microscópicos."
+		},
+		{
+			"question": "Qual animal é frequentemente apontado como o que mais causa mortes humanas por transmitir doenças?",
+			"answer": "Mosquito",
+			"answerNote": "O risco vem principalmente de doenças transmitidas por algumas espécies, como malária, dengue e febre amarela."
+		},
+		{
+			"question": "Qual é o maior felino do mundo?",
+			"answer": "Tigre"
+		},
+		{
+			"question": "Como se chama a transformação pela qual uma lagarta se torna borboleta?",
+			"answer": "Metamorfose completa"
+		},
+		{
+			"question": "Qual grupo de vertebrados possui pele geralmente coberta por escamas e depende de fontes externas de calor para regular a temperatura corporal?",
+			"answer": "Répteis",
+			"answerNote": "Por isso, muitos répteis se aquecem ao sol; eles não mantêm a temperatura corporal constante como as aves e os mamíferos."
+		},
+		{
+			"question": "Qual mamífero marinho usa ecolocalização para encontrar alimento e se orientar?",
+			"answer": "Golfinho"
+		},
+		{
+			"question": "Como se chama a estrutura rígida externa que protege o corpo de muitos insetos e crustáceos?",
+			"answer": "Exoesqueleto"
+		},
+		{
+			"question": "Qual réptil marinho retorna, em muitas espécies, à praia onde nasceu para desovar?",
+			"answer": "Tartaruga-marinha",
+			"answerNote": "Esse comportamento é chamado de filopatria natal; ele não ocorre de forma idêntica em todas as espécies."
+		},
+		{
+			"question": "Qual é o maior peixe do mundo, apesar de se alimentar principalmente filtrando pequenos organismos da água?",
+			"answer": "Tubarão-baleia"
+		},
+		{
+			"question": "Qual inseto é essencial para a polinização de muitas plantas cultivadas e produz mel?",
+			"answer": "Abelha"
+		},
+		{
+			"question": "Como se chama a relação em que um animal captura e consome outro animal?",
+			"answer": "Predação"
+		},
+		{
+			"question": "Qual grupo de mamíferos inclui cangurus e coalas, cujos filhotes completam parte do desenvolvimento em uma bolsa?",
+			"answer": "Marsupiais"
+		},
+		{
+			"question": "Qual réptil tem uma carapaça que protege o corpo e pode viver tanto em ambientes terrestres quanto aquáticos, dependendo da espécie?",
+			"answer": "Tartaruga",
+			"answerNote": "Cágados, jabutis e tartarugas pertencem à ordem das tartarugas, mas ocupam ambientes e têm hábitos diferentes."
+		},
+		{
+			"question": "Qual animal terrestre é famoso por ter um pescoço muito longo e uma língua que pode alcançar folhas entre espinhos?",
+			"answer": "Girafa"
+		},
+		{
+			"question": "Como se chama o processo em que animais como cobras trocam a camada externa da pele?",
+			"answer": "Ecdise",
+			"answerNote": "A ecdise também ocorre em outros artrópodes; em cobras, a pele antiga costuma sair em uma peça."
+		},
+		{
+			"question": "Qual mamífero usa a língua comprida para capturar formigas e cupins e não tem dentes?",
+			"answer": "Tamanduá"
+		},
+		{
+			"question": "Qual é o nome dado aos animais que se alimentam tanto de matéria vegetal quanto de outros animais?",
+			"answer": "Onívoros"
+		},
+		{
+			"question": "Qual grande mamífero africano tem a pele cinzenta, vive parte do tempo na água e é conhecido por marcar trilhas na vegetação?",
+			"answer": "Hipopótamo"
+		},
+		{
+			"question": "Qual ave noturna sul-americana se camufla ficando imóvel sobre troncos e é conhecida popularmente como **mãe-da-lua**?",
+			"answer": "Urutau",
+			"answerNote": "O urutau também é chamado de mãe-da-lua; sua plumagem e postura ajudam a confundi-lo com um galho quebrado."
+		},
+		{
+			"question": "Como se chama a estratégia de defesa em que um animal finge estar morto para evitar um predador?",
+			"answer": "Tanatose",
+			"answerNote": "Também chamada de imobilidade tônica, pode incluir ficar rígido e reduzir os movimentos por algum tempo."
+		},
+		{
+			"question": "Que anfíbio mexicano mantém características larvais, como brânquias externas, mesmo depois de atingir a maturidade?",
+			"answer": "Axolote",
+			"answerNote": "Esse fenômeno é chamado de neotenia. Em condições específicas, o axolote pode passar por metamorfose, mas normalmente conserva a forma aquática."
+		},
+		{
+			"question": "Qual grande águia das florestas tropicais das Américas é frequentemente chamada de a maior ave de rapina do mundo?",
+			"answer": "Harpia",
+			"answerNote": "A harpia é uma das maiores e mais poderosas águias. Comparações de \"maior\" podem variar conforme se considera massa, comprimento ou envergadura."
+		},
+		{
+			"question": "Qual animal doméstico costuma \"presentear\" seus tutores com presas que caçou, às vezes já mortas?",
+			"answer": "Gato",
+			"answerNote": "Esse comportamento está ligado ao instinto de caça; não há certeza de que o gato esteja oferecendo um presente no sentido humano."
+		},
+		{
+			"question": "Em qual animal Gepeto, pai de Pinóquio, fica preso dentro da história?",
+			"answer": "Gigantesco tubarão / Uma baleia Monstro",
+			"answerNote": "No conto original de Carlo Collodi, é um Gigantesco tubarão; na adaptação da Disney, é a baleia Monstro."
+		},
+		{
+			"question": "Como é conhecida a criatura lendária que, segundo relatos, habitaria um lago na Escócia?",
+			"answer": "Monstro do lago Ness",
+			"answerNote": "Também chamado de Nessie, é uma criatura do folclore; sua existência não foi comprovada."
+		},
+		{
+			"question": "Qual ave africana produz uma sequência de estalos com o bico que pode lembrar disparos de arma de fogo?",
+			"answer": "Bico-de-sapato",
+			"answerNote": "O som é produzido pelo bater rápido das mandíbulas do bico, comportamento conhecido como batimento do bico."
+		},
+		{
+			"question": "Qual animal pode devastar plantações no Brasil e é considerado **espécie exótica invasora**?",
+			"answer": "Javali",
+			"answerNote": "Ao fuçar o solo e se alimentar de culturas como milho, pode causar prejuízos agrícolas e impactos ambientais."
+		},
+		{
+			"question": "Qual peixe de espinhos venenosos, nativo dos oceanos Índico e Pacífico, vem se estabelecendo como espécie invasora em áreas da costa brasileira?",
+			"answer": "Peixe-leão",
+			"answerNote": "É um predador voraz que pode afetar peixes nativos e ecossistemas recifais. Seus espinhos podem causar acidentes dolorosos."
+		},
+		{
+			"question": "Qual peixe amazônico de água doce é considerado um dos maiores do mundo?",
+			"answer": "Pirarucu"
+		},
+		{
+			"question": "Qual animal terrestre é considerado o mais veloz na corrida, podendo atingir cerca de 100 km/h em arrancadas curtas?",
+			"answer": "Guepardo"
+		},
+		{
+			"question": "Qual crustáceo marinho desfere um golpe tão rápido e potente que pode quebrar conchas?",
+			"answer": "Camarão Louva-a-Deus / Lagosta Boxeadora",
+			"answerNote": "Tamarutaca é o nome usado no Brasil para estomatópodes, também chamados de camarões-louva-a-deus. Algumas espécies golpeiam com apêndices especializados em alta velocidade."
+		}
+	]
+}

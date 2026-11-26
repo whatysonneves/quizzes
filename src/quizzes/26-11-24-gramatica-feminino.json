@@ -1,5 +1,6 @@
 {
-	"title": "Feminino na Língua Portuguesa",
+	"title": "Gramática: Feminino",
+	"description": "Exemplos das formas femininas de substantivos em português.",
 	"questions": [
 		{
 			"question": "Abade",
@@ -187,7 +188,7 @@
 		},
 		{
 			"question": "Varão",
-			"answer": "Virago"
+			"answer": "Varoa"
 		},
 		{
 			"question": "Veado",

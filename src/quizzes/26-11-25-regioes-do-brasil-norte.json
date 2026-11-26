@@ -68,7 +68,7 @@
 			"answer": "Rio Madeira"
 		},
 		{
-			"question": "Qual monte fica na tríplice fronteira entre Brasil, Venezuela e Guiana?",
+			"question": "Qual famoso monte está localizado na região da tríplice fronteira entre Brasil, Venezuela e Guiana?",
 			"answer": "Monte Roraima",
 			"answerNote": "O monte fica no planalto das Guianas e seu território se estende pelos três países."
 		},
@@ -78,8 +78,7 @@
 		},
 		{
 			"question": "Qual prato paraense é feito tradicionalmente com tucupi, jambu e camarão?",
-			"answer": "Pato no tucupi",
-			"answerNote": "Tacacá também combina tucupi e jambu, mas é servido como caldo."
+			"answer": "Tacacá"
 		},
 		{
 			"question": "Qual dança paraense é tradicionalmente acompanhada por tambores e saias rodadas?",
@@ -89,10 +88,6 @@
 			"question": "Qual estado do Norte tem a cidade de Alter do Chão, conhecida pelas praias de água doce?",
 			"answer": "Pará",
 			"answerNote": "Alter do Chão é um distrito do município de Santarém, às margens do rio Tapajós."
-		},
-		{
-			"question": "Qual é o nome do encontro entre os rios Tapajós e Amazonas, visível em Santarém?",
-			"answer": "Encontro das Águas de Santarém"
 		},
 		{
 			"question": "Qual bioma também está presente no Tocantins, além da Amazônia?",

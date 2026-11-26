@@ -3,23 +3,23 @@
 	"description": "Perguntas sobre os estados, a geografia, a história e a cultura da região Sul do Brasil.",
 	"questions": [
 		{
-			"question": "Quantos estados formam a região Sul?",
+			"question": "Quantos estados formam a região **Sul**?",
 			"answer": "Três estados."
 		},
 		{
-			"question": "Qual é a capital do Paraná?",
+			"question": "Qual é a capital do **Paraná**?",
 			"answer": "Curitiba"
 		},
 		{
-			"question": "Qual é a capital do Rio Grande do Sul?",
+			"question": "Qual é a capital do **Rio Grande do Sul**?",
 			"answer": "Porto Alegre"
 		},
 		{
-			"question": "Qual é a capital de Santa Catarina?",
+			"question": "Qual é a capital de **Santa Catarina**?",
 			"answer": "Florianópolis"
 		},
 		{
-			"question": "Em qual estado ficam as Cataratas do Iguaçu?",
+			"question": "Em qual estado ficam as **Cataratas do Iguaçu**?",
 			"answer": "Paraná",
 			"answerNote": "As cataratas ficam na fronteira entre Brasil e Argentina, no rio Iguaçu."
 		},
@@ -28,7 +28,7 @@
 			"answer": "Usina de Itaipu"
 		},
 		{
-			"question": "Qual bioma de campos naturais ocupa a maior parte do sul do Rio Grande do Sul?",
+			"question": "Qual bioma de campos naturais ocupa a maior parte do sul do **Rio Grande do Sul**?",
 			"answer": "Pampa"
 		},
 		{
@@ -37,11 +37,7 @@
 			"answerNote": "O pinhão é a semente da araucária e é consumido em pratos típicos da região."
 		},
 		{
-			"question": "Qual é o nome da ilha onde fica parte da capital de Santa Catarina?",
-			"answer": "Ilha de Santa Catarina"
-		},
-		{
-			"question": "Qual bebida tradicional feita com erva-mate é muito associada ao Rio Grande do Sul?",
+			"question": "Qual bebida tradicional feita com erva-mate é muito associada ao **Rio Grande do Sul**?",
 			"answer": "Chimarrão"
 		},
 		{
@@ -49,8 +45,8 @@
 			"answer": "Oktoberfest"
 		},
 		{
-			"question": "Qual cidade paranaense é conhecida pelo Parque Estadual de Vila Velha e suas formações rochosas?",
-			"answer": "Ponta Grossa"
+			"question": "Qual parque estadual localizado em Ponta Grossa é conhecido por suas formações rochosas?",
+			"answer": "Parque Estadual de Vila Velha"
 		},
 		{
 			"question": "Qual região do Rio Grande do Sul é conhecida pela produção de vinhos e espumantes?",
@@ -67,17 +63,8 @@
 			"answerNote": "A cidade recebe anualmente o Festival de Dança de Joinville."
 		},
 		{
-			"question": "Qual culinária típica do litoral paranaense é preparada com peixe ou frutos do mar e banana?",
-			"answer": "Barreado",
-			"answerNote": "É um prato tradicional do litoral do Paraná, especialmente associado a Morretes e Antonina."
-		},
-		{
 			"question": "Quais países fazem fronteira terrestre com o Rio Grande do Sul?",
 			"answer": "Argentina e Uruguai"
-		},
-		{
-			"question": "Qual parque nacional do Paraná protege as Cataratas do Iguaçu?",
-			"answer": "Parque Nacional do Iguaçu"
 		}
 	]
 }
