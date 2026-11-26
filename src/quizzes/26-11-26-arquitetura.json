@@ -1,0 +1,112 @@
+{
+	"title": "Arquitetura",
+	"description": "Perguntas sobre arquitetos, edifícios famosos, estilos e conceitos básicos de arquitetura.",
+	"questions": [
+		{
+			"question": "Qual arquiteto brasileiro é conhecido pelas curvas marcantes de suas obras?",
+			"answer": "Oscar Niemeyer"
+		},
+		{
+			"question": "Quem projetou o Museu Guggenheim de Nova York?",
+			"answer": "Frank Lloyd Wright"
+		},
+		{
+			"question": "Qual arquiteto catalão projetou a Sagrada Família, em Barcelona?",
+			"answer": "Antoni Gaudí"
+		},
+		{
+			"question": "Quem foi a primeira mulher a receber o Prêmio Pritzker de Arquitetura?",
+			"answer": "Zaha Hadid"
+		},
+		{
+			"question": "Qual arquiteta ítalo-brasileira projetou o edifício do MASP, em São Paulo?",
+			"answer": "Lina Bo Bardi"
+		},
+		{
+			"question": "Qual arquiteto e urbanista brasileiro concebeu o Plano Piloto de Brasília e é um dos nomes centrais do modernismo brasileiro ao lado de Oscar Niemeyer?",
+			"answer": "Lúcio Costa"
+		},
+		{
+			"question": "Qual é o famoso monumento de ferro localizado em Paris?",
+			"answer": "Torre Eiffel"
+		},
+		{
+			"question": "Qual mausoléu indiano foi construído por Shah Jahan em homenagem à esposa Mumtaz Mahal e se tornou símbolo do amor?",
+			"answer": "Taj Mahal"
+		},
+		{
+			"question": "Qual anfiteatro de Roma ficou famoso por receber combates de gladiadores?",
+			"answer": "Coliseu"
+		},
+		{
+			"question": "Em qual país está localizada a Ópera de Sydney?",
+			"answer": "Austrália"
+		},
+		{
+			"question": "Qual artista e arquiteto brasileiro esculpiu os Doze Profetas em pedra-sabão, em Congonhas, Minas Gerais?",
+			"answer": "Aleijadinho"
+		},
+		{
+			"question": "Qual estilo arquitetônico é conhecido por seus arcos pontiagudos e grandes vitrais?",
+			"answer": "Gótico"
+		},
+		{
+			"question": "Qual estilo arquitetônico é marcado por ornamentação exuberante e riqueza de detalhes?",
+			"answer": "Barroco"
+		},
+		{
+			"question": "Qual movimento arquitetônico do século XX valorizou linhas simples e a ideia de que a forma deve acompanhar a função?",
+			"answer": "Modernismo",
+			"answerNote": "A expressão \"a forma segue a função\" é associada ao funcionalismo e à arquitetura moderna."
+		},
+		{
+			"question": "Qual estilo arquitetônico tem como referência as construções da Grécia e de Roma antigas?",
+			"answer": "Clássico"
+		},
+		{
+			"question": "Qual abordagem arquitetônica reduz os elementos ao essencial e é associada à expressão \"menos é mais\"?",
+			"answer": "Minimalismo",
+			"answerNote": "A expressão \"menos é mais\" é especialmente associada ao arquiteto modernista Ludwig Mies van der Rohe."
+		},
+		{
+			"question": "Qual estilo arquitetônico é conhecido pelo uso expressivo de concreto aparente e formas robustas?",
+			"answer": "Brutalismo"
+		},
+		{
+			"question": "Como se chama a estrutura horizontal que sustenta partes de uma construção e transfere cargas para pilares ou paredes?",
+			"answer": "Viga"
+		},
+		{
+			"question": "Como se chama a face externa e visível de um edifício?",
+			"answer": "Fachada"
+		},
+		{
+			"question": "O que é um mezanino?",
+			"answer": "Um pavimento intermediário entre dois andares"
+		},
+		{
+			"question": "Como se chama o espaço aberto, geralmente descoberto, localizado no interior de uma construção?",
+			"answer": "Pátio"
+		},
+		{
+			"question": "O que significa dizer que uma construção é térrea?",
+			"answer": "Que possui apenas um pavimento"
+		},
+		{
+			"question": "Como se chama o elemento estrutural vertical que sustenta partes de uma construção?",
+			"answer": "Pilar"
+		},
+		{
+			"question": "Qual famosa torre italiana ficou conhecida por sua inclinação?",
+			"answer": "Torre de Pisa"
+		},
+		{
+			"question": "Qual elemento instalado na cobertura permite a entrada de luz natural pelo teto?",
+			"answer": "Claraboia"
+		},
+		{
+			"question": "Qual cidade italiana é famosa por seus canais e construções à beira da água?",
+			"answer": "Veneza"
+		}
+	]
+}
