@@ -108,6 +108,26 @@ export function renderHome(options: HomeViewOptions): HTMLElement {
 			countLabel.className = "quiz-card-count-label";
 			countLabel.textContent = questionCount === 1 ? "pergunta" : "perguntas";
 
+			let miniProgress: HTMLElement | null = null;
+			const lastViewed = options.progress[quiz.slug]?.lastViewed;
+			if (status === "opened" && typeof lastViewed === "number") {
+				const viewed = Math.min(Math.max(lastViewed, 0), questionCount);
+				miniProgress = document.createElement("div");
+				miniProgress.className = "quiz-card-progress";
+				miniProgress.setAttribute("role", "progressbar");
+				miniProgress.setAttribute(
+					"aria-label",
+					`Progresso de ${quiz.title}: ${viewed} de ${questionCount} perguntas`,
+				);
+				miniProgress.setAttribute("aria-valuemin", "0");
+				miniProgress.setAttribute("aria-valuemax", String(questionCount));
+				miniProgress.setAttribute("aria-valuenow", String(viewed));
+				const fill = document.createElement("span");
+				fill.className = "quiz-card-progress-fill";
+				fill.style.width = `${questionCount > 0 ? (viewed / questionCount) * 100 : 0}%`;
+				miniProgress.append(fill);
+			}
+
 			const cardCopy = document.createElement("span");
 			cardCopy.className = "quiz-card-copy";
 			const cardTitle = document.createElement("span");
@@ -148,6 +168,7 @@ export function renderHome(options: HomeViewOptions): HTMLElement {
 			}
 
 			card.append(count, countLabel, cardCopy, openButton);
+			if (miniProgress) card.append(miniProgress);
 			list.append(card);
 		}
 		section.append(list);
