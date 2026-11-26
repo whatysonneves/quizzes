@@ -56,15 +56,23 @@ export function renderHome(options: HomeViewOptions): HTMLElement {
 	heading.textContent = "Seus quizzes";
 	const actions = document.createElement("div");
 	actions.className = "home-list-actions";
-	const count = document.createElement("span");
-	count.className = "quiz-count";
-	count.textContent = `${options.quizzes.length} ${options.quizzes.length === 1 ? "quiz" : "quizzes"}`;
+	const counts = document.createElement("span");
+	counts.className = "home-counts";
+	const quizCount = document.createElement("span");
+	quizCount.textContent = `${options.quizzes.length} ${options.quizzes.length === 1 ? "quiz" : "quizzes"}`;
+	const totalQuestions = options.quizzes.reduce(
+		(sum, quiz) => sum + quiz.questions.length,
+		0,
+	);
+	const questionCount = document.createElement("span");
+	questionCount.textContent = `${totalQuestions} ${totalQuestions === 1 ? "pergunta" : "perguntas"}`;
+	counts.append(quizCount, " · ", questionCount);
 	const randomButton = document.createElement("button");
 	randomButton.type = "button";
 	randomButton.className = "theme-toggle random-quiz-button";
 	randomButton.innerHTML = '<span aria-hidden="true">🎲</span><span>Sortear quiz</span>';
 	randomButton.addEventListener("click", options.onRandomQuiz);
-	actions.append(count, randomButton);
+	actions.append(counts, randomButton);
 	sectionHeading.append(heading, actions);
 	section.append(sectionHeading);
 

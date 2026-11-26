@@ -92,7 +92,7 @@ button:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
 .section-heading { justify-content: space-between; gap: 16px; margin-bottom: 15px; }
 .section-heading h2 { margin: 0; font: 800 17px "Inter Variable", ui-sans-serif, system-ui, sans-serif; letter-spacing: -.025em; }
 .home-list-actions { display: flex; align-items: center; gap: 12px; }
-.quiz-count { color: var(--muted); font-size: 12px; font-weight: 600; }
+.home-counts { color: var(--muted); font-size: 12px; font-weight: 600; white-space: nowrap; }
 .random-quiz-button { white-space: nowrap; }
 .random-quiz-button:hover { border-color: var(--accent); background: var(--surface-soft); }
 .quiz-list { display: grid; gap: 8px; }
