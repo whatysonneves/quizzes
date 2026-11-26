@@ -132,7 +132,7 @@
 			"answerNote": "Também chamada de imobilidade tônica, pode incluir ficar rígido e reduzir os movimentos por algum tempo."
 		},
 		{
-			"question": "Que anfíbio mexicano mantém características larvais, como brânquias externas, mesmo depois de atingir a maturidade?",
+			"question": "Qual salamandra aquática mexicana é conhecida por conseguir regenerar membros perdidos?",
 			"answer": "Axolote",
 			"answerNote": "Esse fenômeno é chamado de neotenia. Em condições específicas, o axolote pode passar por metamorfose, mas normalmente conserva a forma aquática."
 		},
@@ -183,6 +183,38 @@
 			"question": "Qual crustáceo marinho desfere um golpe tão rápido e potente que pode quebrar conchas?",
 			"answer": "Camarão Louva-a-Deus / Lagosta Boxeadora",
 			"answerNote": "Tamarutaca é o nome usado no Brasil para estomatópodes, também chamados de camarões-louva-a-deus. Algumas espécies golpeiam com apêndices especializados em alta velocidade."
+		},
+		{
+			"question": "Qual é o animal marinho cefalópode que pertence ao mesmo filo dos moluscos que inclui as lesmas?",
+			"answer": "Polvo / Lula",
+			"answerNote": "Polvos e lulas são cefalópodes; lesmas são gastrópodes. Ambos pertencem ao filo dos moluscos."
+		},
+		{
+			"question": "Qual cetáceo do Ártico é chamado de unicórnio-do-mar por causa de seu longo dente em espiral?",
+			"answer": "Narval",
+			"answerNote": "A longa presa do narval é, na verdade, um dente alongado."
+		},
+		{
+			"question": "Qual marsupial carnívoro da Tasmânia inspirou um famoso personagem de desenho animado conhecido por girar como um redemoinho?",
+			"answer": "Diabo-da-Tasmânia"
+		},
+		{
+			"question": "Qual mamífero de regiões áridas pode ter uma ou duas corcovas onde ele armazena gordura?",
+			"answer": "Camelo",
+			"answerNote": "As corcovas armazenam gordura, não água."
+		},
+		{
+			"question": "Os cães domésticos descendem de antigas populações de qual canídeo selvagem?",
+			"answer": "Lobo",
+			"answerNote": "Os cães descendem de uma população antiga de lobos; os lobos atuais são seus parentes próximos."
+		},
+		{
+			"question": "Qual primata de Madagascar inspirou o personagem coroado e dançarino Rei Julien, da franquia Madagascar?",
+			"answer": "Lêmure-de-cauda-anelada"
+		},
+		{
+			"question": "Qual naturalista estudou tentilhões e tartarugas nas Ilhas Galápagos, criador da teoria da evolução das espécies?",
+			"answer": "Charles Darwin"
 		}
 	]
 }

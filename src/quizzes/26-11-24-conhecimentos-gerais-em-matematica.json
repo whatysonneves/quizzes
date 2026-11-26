@@ -85,6 +85,54 @@
 		{
 			"question": "Se jogar uma moeda 9 vezes, e em todas o resultado for cara, na décima vez, qual a probabilidade de sair cara de novo?",
 			"answer": "1/2 (50%)"
+		},
+		{
+			"question": "Qual é a probabilidade de obter um número par ao lançar um dado comum?",
+			"answer": "1/2 (50%)"
+		},
+		{
+			"question": "Como se chama um número que pode ser dividido por 2 sem deixar resto?",
+			"answer": "Número par"
+		},
+		{
+			"question": "Qual é a porcentagem equivalente à fração 3/4?",
+			"answer": "75%"
+		},
+		{
+			"question": "Qual é o único número primo que é par?",
+			"answer": "2"
+		},
+		{
+			"question": "Quantas faces possui um cubo?",
+			"answer": "Seis"
+		},
+		{
+			"question": "Quanto representa 10% de 200?",
+			"answer": "20"
+		},
+		{
+			"question": "Quanto representa 20% de 150?",
+			"answer": "30"
+		},
+		{
+			"question": "Quantos centímetros existem em um metro?",
+			"answer": "100"
+		},
+		{
+			"question": "Quantos lados possui um hexágono?",
+			"answer": "Seis"
+		},
+		{
+			"question": "Quantos lados possui um octógono?",
+			"answer": "Oito"
+		},
+		{
+			"question": "Quantos minutos existem em uma hora?",
+			"answer": "60"
+		},
+		{
+			"question": "Se um produto custa R$ 100 e recebe um desconto de 15%, qual será seu preço final?",
+			"answer": "R$ 85,00"
 		}
 	]
 }

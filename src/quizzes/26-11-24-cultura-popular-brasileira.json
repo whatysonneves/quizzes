@@ -114,6 +114,30 @@
 			"question": "Qual é o nome do prato típico baiano preparado com feijão-fradinho, cebola e sal, frito no azeite de dendê?",
 			"answer": "Acarajé",
 			"answerNote": "É uma comida de origem afro-brasileira, muito ligada à cultura e à religiosidade do povo baiano."
+		},
+		{
+			"question": "Qual personagem do folclore amazônico se transforma em um homem elegante para seduzir mulheres ribeirinhas durante festas?",
+			"answer": "Boto-cor-de-rosa"
+		},
+		{
+			"question": "Qual alimento típico do Nordeste é preparado com flocos de milho cozidos no vapor?",
+			"answer": "Cuscuz nordestino"
+		},
+		{
+			"question": "Qual escritor brasileiro escreveu o romance Dom Casmurro?",
+			"answer": "Machado de Assis"
+		},
+		{
+			"question": "Qual brincadeira infantil consiste em pular sobre casas numeradas desenhadas no chão?",
+			"answer": "Amarelinha"
+		},
+		{
+			"question": "Qual ator e comediante brasileiro ficou conhecido pelo personagem Didi?",
+			"answer": "Renato Aragão"
+		},
+		{
+			"question": "Qual filme brasileiro acompanha as aventuras de João Grilo e Chicó?",
+			"answer": "O Auto da Compadecida"
 		}
 	]
 }

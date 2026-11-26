@@ -28,10 +28,6 @@
 			"answer": "Dupla hélice"
 		},
 		{
-			"question": "A que elemento químico corresponde o símbolo Fe?",
-			"answer": "Ferro"
-		},
-		{
 			"question": "Qual unidade do Sistema Internacional de Medidas mede força?",
 			"answer": "Newton"
 		},
@@ -132,6 +128,35 @@
 		{
 			"question": "Como é chamado um erro em um programa de computador?",
 			"answer": "Bug"
+		},
+		{
+			"question": "Como se chama o fenômeno em que a Lua encobre total ou parcialmente o Sol?",
+			"answer": "Eclipse solar"
+		},
+		{
+			"question": "Qual cientista formulou as três leis clássicas do movimento?",
+			"answer": "Isaac Newton"
+		},
+		{
+			"question": "Qual elemento químico é essencial para a formação dos ossos e dentes?",
+			"answer": "Cálcio"
+		},
+		{
+			"question": "Qual metal é líquido à temperatura ambiente?",
+			"answer": "Mercúrio"
+		},
+		{
+			"question": "Qual escala é popularmente associada à medição da magnitude dos terremotos?",
+			"answer": "Escala Richter",
+			"answerNote": "A escala Richter é popularmente associada à magnitude sísmica. Atualmente, terremotos grandes são reportados pela magnitude de momento (Mw); a intensidade local pode ser descrita pela escala Mercalli Modificada."
+		},
+		{
+			"question": "Qual é o elemento químico mais abundante no universo?",
+			"answer": "Hidrogênio"
+		},
+		{
+			"question": "Qual é o planeta mais próximo do Sol?",
+			"answer": "Mercúrio"
 		}
 	]
 }
