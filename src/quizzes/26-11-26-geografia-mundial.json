@@ -3,30 +3,9 @@
 	"description": "Perguntas sobre continentes, oceanos, países, rios, montanhas e outros marcos geográficos do planeta.",
 	"questions": [
 		{
-			"question": "Qual é o maior continente do mundo em área?",
-			"answer": "Ásia"
-		},
-		{
-			"question": "Qual é o maior oceano do planeta?",
-			"answer": "Oceano Pacífico"
-		},
-		{
-			"question": "Qual é o menor dos cinco oceanos?",
-			"answer": "Oceano Ártico"
-		},
-		{
-			"question": "Qual é a montanha mais alta do mundo acima do nível do mar?",
-			"answer": "Monte Everest",
-			"answerNote": "É a maior altitude em relação ao nível do mar; outras montanhas podem ser mais altas se medidas desde a base submarina."
-		},
-		{
-			"question": "Qual é a mais longa cadeia de montanhas em terra firme?",
-			"answer": "Cordilheira dos Andes",
-			"answerNote": "A dorsal meso-oceânica é mais extensa, mas fica submersa."
-		},
-		{
 			"question": "Qual é o maior deserto quente do mundo?",
-			"answer": "Deserto do Saara"
+			"answer": "Deserto do Saara",
+			"answerNote": "O Deserto do Saara é deserto quente; a Antártida é o maior deserto."
 		},
 		{
 			"question": "Qual é o maior deserto do mundo?",
@@ -34,13 +13,43 @@
 			"answerNote": "A Antártida é um deserto frio; o Saara é o maior deserto quente."
 		},
 		{
-			"question": "Qual é o maior país do mundo em área?",
+			"question": "Qual é o maior continente do mundo em área?",
+			"answer": "Ásia"
+		},
+		{
+			"question": "Qual é o menor continente do mundo em área?",
+			"answer": "Oceania"
+		},
+		{
+			"question": "Qual é o maior oceano do planeta?",
+			"answer": "Oceano Pacífico"
+		},
+		{
+			"question": "Qual é o menor oceano do planeta?",
+			"answer": "Oceano Ártico"
+		},
+		{
+			"question": "Qual é o maior País do mundo em área?",
 			"answer": "Rússia"
 		},
 		{
-			"question": "Qual é o menor Estado soberano do mundo?",
+			"question": "Qual é o menor Estado soberano do mundo em área?",
 			"answer": "Vaticano",
 			"answerNote": "A Cidade do Vaticano é um Estado independente dentro de Roma, na Itália."
+		},
+		{
+			"question": "Qual é a montanha mais alta do mundo acima do nível do mar?",
+			"answer": "Monte Everest",
+			"answerNote": "É a maior altitude em relação ao nível do mar; outras montanhas podem ser mais altas se medidas desde a base submarina."
+		},
+		{
+			"question": "Qual é a fossa oceânica mais profunda conhecida?",
+			"answer": "Fossa das Marianas"
+		},
+		{
+			"question": "Qual é a mais longa cadeia de montanhas em terra firme?",
+			"answer": "Cordilheira dos Andes",
+			"answerNote": "A dorsal meso-oceânica é mais extensa, mas fica submersa."
 		},
 		{
 			"question": "Qual é o maior país da África em área?",
@@ -63,10 +72,6 @@
 			"question": "Qual rio transporta o maior volume de água do mundo?",
 			"answer": "Rio Amazonas",
 			"answerNote": "A resposta considera a vazão; o rio mais longo é uma comparação diferente."
-		},
-		{
-			"question": "Qual é a fossa oceânica mais profunda conhecida?",
-			"answer": "Fossa das Marianas"
 		},
 		{
 			"question": "Qual mar fica entre a Europa e o norte da África?",
@@ -107,6 +112,24 @@
 		{
 			"question": "Em qual continente fica o Polo Sul geográfico?",
 			"answer": "Antártida"
+		},
+		{
+			"question": "Qual país europeu tem um formato que lembra uma bota?",
+			"answer": "Itália"
+		},
+		{
+			"question": "Qual cordilheira forma uma fronteira natural entre França e Espanha?",
+			"answer": "Pireneus"
+		},
+		{
+			"question": "Quantos oceanos existem na Terra?",
+			"answer": "Cinco",
+			"answerNote": "São os oceanos Pacífico, Atlântico, Índico, Antártico e Ártico."
+		},
+		{
+			"question": "Quantos continentes existem?",
+			"answer": "Seis",
+			"answerNote": "Nesta convenção, são América, África, Europa, Ásia, Oceania e Antártida. Alguns países usam modelos que dividem a América em dois continentes."
 		}
 	]
 }

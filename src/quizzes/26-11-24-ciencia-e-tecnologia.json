@@ -32,12 +32,22 @@
 			"answer": "Ferro"
 		},
 		{
-			"question": "Qual unidade do Sistema Internacional mede força?",
+			"question": "Qual unidade do Sistema Internacional de Medidas mede força?",
 			"answer": "Newton"
 		},
 		{
-			"question": "Qual unidade do Sistema Internacional mede energia?",
+			"question": "Qual unidade do Sistema Internacional de Medidas mede energia?",
 			"answer": "Joule"
+		},
+		{
+			"question": "Segundo uma afirmação popular, quantos países não adotam o Sistema Internacional de Medidas?",
+			"answer": "Três",
+			"answerNote": "A afirmação costuma citar Estados Unidos, Myanmar e Libéria, mas é um mito: todos os países reconheceram e adotaram o SI; o que varia é o uso obrigatório ou cotidiano."
+		},
+		{
+			"question": "A quantos graus Celsius corresponde aproximadamente o zero absoluto?",
+			"answer": "−273 °C",
+			"answerNote": "O zero absoluto corresponde a 0 K, ou exatamente −273,15 °C."
 		},
 		{
 			"question": "Que força de atração age entre corpos com massa?",
@@ -57,12 +67,22 @@
 			"answer": "Fusão nuclear"
 		},
 		{
+			"question": "Qual processo nuclear libera energia ao dividir núcleos atômicos pesados em núcleos menores?",
+			"answer": "Fissão nuclear",
+			"answerNote": "Na fissão, um núcleo pesado se divide; na fusão, núcleos leves se unem. Ambos os processos podem liberar energia."
+		},
+		{
 			"question": "Qual é o maior planeta do Sistema Solar?",
 			"answer": "Júpiter"
 		},
 		{
 			"question": "Qual planeta é conhecido como Planeta Vermelho?",
 			"answer": "Marte"
+		},
+		{
+			"question": "Qual corpo celeste deixou de ser classificado como planeta do Sistema Solar e passou a ser considerado planeta anão?",
+			"answer": "Plutão",
+			"answerNote": "Em 2006, a União Astronômica Internacional reclassificou Plutão como planeta anão."
 		},
 		{
 			"question": "Em qual galáxia está o Sistema Solar?",

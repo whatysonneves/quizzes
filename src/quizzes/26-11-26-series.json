@@ -1,0 +1,134 @@
+{
+	"title": "Séries",
+	"description": "Perguntas sobre recordes, comédias, dramas, ficção científica e séries brasileiras.",
+	"questions": [
+		{
+			"question": "Qual sitcom venceu cinco Emmys consecutivos de Melhor Série de Comédia, entre 1994 e 1998, e ganhou 37 Emmys durante sua exibição original?",
+			"answer": "Frasier"
+		},
+		{
+			"question": "Qual série animada de horário nobre dos Estados Unidos ultrapassou 800 episódios e detém o recorde de episódios entre séries roteirizadas desse formato?",
+			"answer": "Os Simpsons"
+		},
+		{
+			"question": "Qual série roteirizada de horário nobre dos Estados Unidos detém o recorde de maior número de temporadas?",
+			"answer": "Os Simpsons"
+		},
+		{
+			"question": "Qual série acompanha seis amigos vivendo em Nova York?",
+			"answer": "Friends"
+		},
+		{
+			"question": "Qual sitcom se passa no escritório da empresa de papel Dunder Mifflin?",
+			"answer": "The Office"
+		},
+		{
+			"question": "Qual série acompanha um médico especialista em diagnósticos, conhecido por seu comportamento difícil e pouco convencional?",
+			"answer": "House (Dr. House)"
+		},
+		{
+			"question": "Qual série médica se passa no hospital fictício Seattle Grace?",
+			"answer": "Grey's Anatomy"
+		},
+		{
+			"question": "Qual série de fantasia apresenta uma disputa pelo Trono de Ferro?",
+			"answer": "Game of Thrones"
+		},
+		{
+			"question": "Qual série acompanha irmãos adotivos que nasceram com habilidades extraordinárias e foram reunidos por uma academia?",
+			"answer": "The Umbrella Academy"
+		},
+		{
+			"question": "Qual série acompanha Rick Grimes e um grupo de sobreviventes em um mundo devastado por um apocalipse zumbi?",
+			"answer": "The Walking Dead"
+		},
+		{
+			"question": "Em qual série de ficção científica aparece um monstro chamado Demogorgon?",
+			"answer": "Stranger Things"
+		},
+		{
+			"question": "Qual série acompanha os irmãos Winchester enquanto caçam criaturas sobrenaturais?",
+			"answer": "Supernatural (Sobrenatural)"
+		},
+		{
+			"question": "Qual sitcom se passa em Pasadena e acompanha um grupo de cientistas e seus relacionamentos?",
+			"answer": "The Big Bang Theory"
+		},
+		{
+			"question": "Qual franquia de ficção científica apresenta viagens espaciais a bordo da nave Enterprise?",
+			"answer": "Star Trek"
+		},
+		{
+			"question": "Qual série explora um parque temático de realidade virtual controlado por inteligência artificial?",
+			"answer": "Westworld"
+		},
+		{
+			"question": "Qual série acompanha um professor de química que começa a fabricar metanfetamina?",
+			"answer": "Breaking Bad"
+		},
+		{
+			"question": "Qual série apresenta um serial killer que trabalha como analista forense para a polícia de Miami?",
+			"answer": "Dexter"
+		},
+		{
+			"question": "Qual série acompanha um consultor da polícia que usa sua capacidade de observação para resolver crimes?",
+			"answer": "The Mentalist (O Mentalista)"
+		},
+		{
+			"question": "Qual sitcom acompanha um pai de estilo firme e bem-humorado que cria três filhos com regras próprias?",
+			"answer": "Eu, a Patroa e as Crianças"
+		},
+		{
+			"question": "Qual sitcom brasileira acompanha a família Silva, que vive em um subúrbio da Zona Norte do Rio de Janeiro?",
+			"answer": "A Grande Família"
+		},
+		{
+			"question": "Qual série brasileira da Netflix mostra jovens do Continente competindo por uma chance de viver no privilegiado Maralto?",
+			"answer": "3%"
+		},
+		{
+			"question": "Qual série policial acompanha um habilidoso falsificador que, após ser capturado, passa a colaborar com o FBI na investigação de crimes financeiros?",
+			"answer": "White Collar (Crimes do Colarinho Branco)"
+		},
+		{
+			"question": "Qual série animada de ficção científica acompanha viagens interdimensionais de um cientista excêntrico e seu neto adolescente?",
+			"answer": "Rick and Morty"
+		},
+		{
+			"question": "De qual série deriva a série Better Call Saul, sobre um advogado que se envolve com o submundo do crime de Albuquerque?",
+			"answer": "Breaking Bad"
+		},
+		{
+			"question": "Qual sitcom clássica dos anos 1960 acompanha uma família excêntrica criada originalmente em charges de jornal?",
+			"answer": "A Família Addams"
+		},
+		{
+			"question": "Qual reality show confina participantes em uma casa monitorada por câmeras, com eliminações decididas pelo público?",
+			"answer": "Big Brother Brasil"
+		},
+		{
+			"question": "Qual série de época acompanha os romances e as disputas sociais de uma família aristocrática londrina durante a Regência?",
+			"answer": "Bridgerton"
+		},
+		{
+			"question": "Qual série acompanha advogados de um escritório de Nova York que, no início, se chama Pearson Hardman?",
+			"answer": "Suits"
+		},
+		{
+			"question": "Qual série britânica apresenta uma versão contemporânea das investigações do famoso detetive criado por Arthur Conan Doyle?",
+			"answer": "Sherlock"
+		},
+		{
+			"question": "Qual série policial desenvolve um romance entre um agente do FBI e uma antropóloga forense que trabalham juntos na investigação de crimes?",
+			"answer": "Bones"
+		},
+		{
+			"question": "Qual série francesa da Netflix acompanha um habilidoso ladrão que usa disfarces e se inspira nas histórias do famoso ladrão criado por Maurice Leblanc?",
+			"answer": "Lupin"
+		},
+		{
+			"question": "Qual anime acompanha um jovem ninja determinado a se tornar o líder de sua aldeia?",
+			"answer": "Naruto"
+		}
+	]
+}

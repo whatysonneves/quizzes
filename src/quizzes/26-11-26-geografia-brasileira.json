@@ -1,0 +1,133 @@
+{
+	"title": "Geografia Brasileira",
+	"description": "Perguntas sobre o território, os limites, os biomas, o relevo e as águas do Brasil.",
+	"questions": [
+		{
+			"question": "Qual é o ponto mais ao extremo norte do território brasileiro?",
+			"answer": "Uiramutã, em Roraima",
+			"answerNote": "O ponto extremo norte fica na nascente do rio Ailã, no Monte Caburaí, dentro do município de Uiramutã. A expressão popular \"do Oiapoque ao Chuí\", também lembrada em músicas, perpetua a ideia de que Oiapoque é o extremo norte, mas o Monte Caburaí fica mais ao norte."
+		},
+		{
+			"question": "Qual é o ponto mais ao extremo sul do território brasileiro?",
+			"answer": "Arroio Chuí, no Rio Grande do Sul"
+		},
+		{
+			"question": "Com quantos países da América do Sul o Brasil faz fronteira terrestre?",
+			"answer": "Nove",
+			"answerNote": "A Guiana Francesa é um território ultramarino da França."
+		},
+		{
+			"question": "Com quantos países da América do Sul o Brasil não faz fronteira terrestre?",
+			"answer": "Dois",
+			"answerNote": "Chile e Equador."
+		},
+		{
+			"question": "Quantos biomas existem no Brasil, segundo o IBGE?",
+			"answer": "Seis",
+			"answerNote": "São Amazônia, Mata Atlântica, Cerrado, Caatinga, Pampa e Pantanal."
+		},
+		{
+			"question": "Quantos fusos horários oficiais existem no Brasil?",
+			"answer": "Quatro",
+			"answerNote": "São os fusos UTC−2, UTC−3 (horário de Brasília), UTC−4 e UTC−5."
+		},
+		{
+			"question": "Qual é a extensão aproximada do litoral brasileiro nas medidas geográficas tradicionais?",
+			"answer": "Cerca de 7.400 quilômetros",
+			"answerNote": "O valor depende do critério e do nível de detalhe usados para medir os recortes costeiros."
+		},
+		{
+			"question": "Quantas unidades da Federação o Brasil possui?",
+			"answer": "27",
+			"answerNote": "São 26 estados e o Distrito Federal."
+		},
+		{
+			"question": "Qual é a área aproximada do território brasileiro?",
+			"answer": "8,5 milhões de quilômetros quadrados"
+		},
+		{
+			"question": "Em que posição o Brasil está entre os países do mundo em extensão territorial?",
+			"answer": "Quinto lugar",
+			"answerNote": "É o maior país da América do Sul."
+		},
+		{
+			"question": "Quais estados brasileiros são atravessados pela Linha do Equador?",
+			"answer": "Amapá, Pará, Amazonas e Roraima"
+		},
+		{
+			"question": "Qual é o ponto mais alto do Brasil?",
+			"answer": "Pico da Neblina",
+			"answerNote": "Fica no Amazonas, próximo à fronteira com a Venezuela."
+		},
+		{
+			"question": "Qual é a cachoeira com a maior queda livre do Brasil?",
+			"answer": "Cachoeira do El Dorado, no Amazonas",
+			"answerNote": "Fica no Parque Estadual Serra do Aracá, em Barcelos, e tem cerca de 353 metros de altura."
+		},
+		{
+			"question": "Qual caverna tem a maior entrada do Brasil?",
+			"answer": "Caverna Casa de Pedra",
+			"answerNote": "Fica em Iporanga, no Parque Estadual Turístico do Alto Ribeira (PETAR), em São Paulo. A Casa de Pedra tem a maior abertura vertical de caverna do mundo."
+		},
+		{
+			"question": "Qual é o rio mais extenso cujo curso fica totalmente dentro do Brasil?",
+			"answer": "Rio São Francisco"
+		},
+		{
+			"question": "Qual é a maior bacia hidrográfica do Brasil?",
+			"answer": "Bacia Amazônica"
+		},
+		{
+			"question": "Qual é a maior ilha fluvial do Brasil e uma das maiores do mundo?",
+			"answer": "Ilha do Bananal",
+			"answerNote": "Fica no estado do Tocantins, entre os rios Araguaia e Javaés."
+		},
+		{
+			"question": "Quantos estados brasileiros têm litoral banhado pelo Oceano Atlântico?",
+			"answer": "Dezessete"
+		},
+		{
+			"question": "Quantos estados brasileiros têm litoral banhado pelo Oceano Pacífico?",
+			"answer": "Nenhum",
+			"answerNote": "O litoral brasileiro é banhado pelo Oceano Atlântico."
+		},
+		{
+			"question": "A qual estado pertence o arquipélago oceânico de Fernando de Noronha?",
+			"answer": "Pernambuco"
+		},
+		{
+			"question": "Qual foi o último território que o Brasil incorporou, adquirindo-o da Bolívia?",
+			"answer": "Acre",
+			"answerNote": "O Tratado de Petrópolis, de 1903, formalizou a incorporação e previu indenização de dois milhões de libras esterlinas, além de outros compromissos. O Acre tornou-se estado em 1962."
+		},
+		{
+			"question": "Em que ano o Brasil se tornou um país independente?",
+			"answer": "1822",
+			"answerNote": "A independência foi proclamada em 7 de setembro de 1822."
+		},
+		{
+			"question": "Quem foi Joaquim José da Silva Xavier, um dos líderes da Inconfidência Mineira?",
+			"answer": "Tiradentes",
+			"answerNote": "Ele foi executado em 21 de abril de 1792; a data é feriado nacional no Brasil."
+		},
+		{
+			"question": "Qual navegador comandava a expedição portuguesa que chegou à costa do território hoje chamado Brasil em 1500?",
+			"answer": "Pedro Álvares Cabral",
+			"answerNote": "A chegada portuguesa não foi o início da história do território: povos indígenas já viviam aqui havia milhares de anos."
+		},
+		{
+			"question": "Em qual data foi promulgada a Constituição Federal atualmente em vigor no Brasil?",
+			"answer": "5 de outubro de 1988"
+		},
+		{
+			"question": "Qual monumento brasileiro foi escolhido como uma das Novas Sete Maravilhas do Mundo?",
+			"answer": "Cristo Redentor",
+			"answerNote": "A estátua fica no Rio de Janeiro e foi anunciada entre as vencedoras da votação internacional em 2007."
+		},
+		{
+			"question": "Desde o início do governo civil em 1985, quantas pessoas diferentes exerceram a Presidência do Brasil?",
+			"answer": "Oito",
+			"answerNote": "Até 2026 foram José Sarney, Fernando Collor, Itamar Franco, Fernando Henrique Cardoso, Luiz Inácio Lula da Silva, Dilma Rousseff, Michel Temer e Jair Bolsonaro."
+		}
+	]
+}

@@ -28,6 +28,11 @@
 			"answer": "Usina de Itaipu"
 		},
 		{
+			"question": "Onde fica localizada a **Ponte da Amizade**?",
+			"answer": "Entre Foz do Iguaçu, no Paraná, e Ciudad del Este, no Paraguai.",
+			"answerNote": "A ponte cruza o rio Paraná e liga Brasil e Paraguai."
+		},
+		{
 			"question": "Qual bioma de campos naturais ocupa a maior parte do sul do **Rio Grande do Sul**?",
 			"answer": "Pampa"
 		},

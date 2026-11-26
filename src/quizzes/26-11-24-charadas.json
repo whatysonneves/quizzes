@@ -7,43 +7,43 @@
 			"answer": "Pente"
 		},
 		{
-			"question": "Quanto mais você tira, maior fica. O que é?",
+			"question": "Quanto mais você tira, maior fica.",
 			"answer": "Buraco"
 		},
 		{
-			"question": "Tem cidades sem casas, rios sem água e florestas sem árvores. O que é?",
+			"question": "Tem cidades sem casas, rios sem água e florestas sem árvores.",
 			"answer": "Mapa"
 		},
 		{
-			"question": "Fica molhada enquanto seca. O que é?",
+			"question": "Fica molhada enquanto seca.",
 			"answer": "Toalha"
 		},
 		{
-			"question": "Em você está sempre aumentando e nunca diminui. O que é?",
+			"question": "O que em você está sempre aumentando e nunca diminui.",
 			"answer": "Idade"
 		},
 		{
-			"question": "É seu, mas outras pessoas dizem mais vezes do que você. O que é?",
+			"question": "É seu, mas outras pessoas dizem mais vezes do que você.",
 			"answer": "Seu nome"
 		},
 		{
-			"question": "Pode ser quebrada sem ser tocada. O que é?",
+			"question": "Pode ser quebrada sem ser tocada.",
 			"answer": "Promessa"
 		},
 		{
-			"question": "Enche um quarto inteiro, mas não ocupa espaço. O que é?",
-			"answer": "Luz"
+			"question": "Enche um quarto inteiro, mas não ocupa espaço.",
+			"answer": "Ar / Luz"
 		},
 		{
-			"question": "Tem quatro pernas, mas não consegue andar. O que é?",
-			"answer": "Mesa"
+			"question": "Tem quatro pernas, mas não consegue andar.",
+			"answer": "Mesa / Cadeira"
 		},
 		{
-			"question": "Viaja pelo mundo sem sair do canto de um envelope. O que é?",
+			"question": "Viaja pelo mundo sem sair do canto de um envelope.",
 			"answer": "Selo"
 		},
 		{
-			"question": "Corre sem ter pernas e tem leito sem dormir. O que é?",
+			"question": "Corre sem ter pernas e tem leito sem dormir.",
 			"answer": "Rio"
 		},
 		{
@@ -51,11 +51,11 @@
 			"answer": "Chave de fenda"
 		},
 		{
-			"question": "Precisa ser quebrado antes de ser usado. O que é?",
+			"question": "Precisa ser quebrado antes de ser usado.",
 			"answer": "Ovo"
 		},
 		{
-			"question": "Cai em pé e corre deitado. O que é?",
+			"question": "Cai em pé e corre deitado.",
 			"answer": "Chuva"
 		},
 		{
@@ -63,15 +63,15 @@
 			"answer": "Seu cotovelo direito"
 		},
 		{
-			"question": "Está cheia de buracos, mas ainda consegue segurar água. O que é?",
+			"question": "Está cheia de buracos, mas ainda consegue segurar água.",
 			"answer": "Esponja"
 		},
 		{
-			"question": "Sobe e desce, mas permanece no mesmo lugar. O que é?",
+			"question": "Sobe e desce, mas permanece no mesmo lugar.",
 			"answer": "Escada"
 		},
 		{
-			"question": "Tem botões, mas não veste camisa; muda de canal sem sair do sofá. O que é?",
+			"question": "Tem botões, mas não veste camisa; muda de canal sem sair do sofá.",
 			"answer": "Controle remoto"
 		}
 	]
