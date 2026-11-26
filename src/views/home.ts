@@ -2,6 +2,9 @@ import { formatQuizDate, type QuizEntry } from "../lib/quizzes";
 import { type QuizProgress } from "../lib/progress";
 import { type Theme } from "../lib/theme";
 
+const AUTHOR_URL = "https://whatysonneves.com/";
+const GITHUB_URL = "https://github.com/whatysonneves/quizzes";
+
 export interface HomeViewOptions {
 	quizzes: QuizEntry[];
 	progress: Record<string, QuizProgress>;
@@ -150,6 +153,25 @@ export function renderHome(options: HomeViewOptions): HTMLElement {
 		section.append(list);
 	}
 
-	page.append(header, section);
+	const footer = document.createElement("footer");
+	footer.className = "site-footer";
+	const footerCopy = document.createElement("p");
+	footerCopy.className = "site-footer-copy";
+	const authorLink = document.createElement("a");
+	authorLink.className = "site-footer-link";
+	authorLink.href = AUTHOR_URL;
+	authorLink.target = "_blank";
+	authorLink.rel = "noopener noreferrer";
+	authorLink.textContent = "Whatyson Neves";
+	const footerLink = document.createElement("a");
+	footerLink.className = "site-footer-link";
+	footerLink.href = GITHUB_URL;
+	footerLink.target = "_blank";
+	footerLink.rel = "noopener noreferrer";
+	footerLink.textContent = "GitHub";
+	footerCopy.append("Criado por ", authorLink, " · Projeto open source · ", footerLink);
+	footer.append(footerCopy);
+
+	page.append(header, section, footer);
 	return page;
 }
