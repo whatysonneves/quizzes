@@ -51,6 +51,11 @@ function renderHomePage(): void {
 						return;
 					}
 					const selected = unfinished[Math.floor(Math.random() * unfinished.length)];
+					// Sortear um quiz em andamento significa continuar: marcar como ativo
+					// evita o modal de retomada; openQuiz já vai para a página salva.
+					if (progress[selected.slug]?.status === "opened") {
+						activeQuizSlug = selected.slug;
+					}
 					openQuiz(selected.slug);
 				},
 			onToggleTheme: () => toggleTheme(renderHomePage),

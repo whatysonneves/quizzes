@@ -42,4 +42,6 @@ A ordem das perguntas é sorteada uma vez por navegador e depois congela. Se voc
 
 Ao abrir um quiz em andamento, um modal pergunta se quer continuar de onde parou ou começar do zero. Quiz concluído tem modal próprio.
 
+O botão **Sortear quiz** é a exceção: se o quiz sorteado estiver em andamento, ele ignora o modal e segue direto para a última posição salva.
+
 Renomear o slug apaga o progresso daquele quiz naquele navegador. Trocar apenas a data do prefixo não apaga, mas muda a posição na lista. O ano de dois dígitos é lido como `20yy`; século XIX fica para o próximo sprint.
