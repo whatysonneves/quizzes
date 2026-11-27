@@ -22,6 +22,14 @@ export function renderHome(options: HomeViewOptions): HTMLElement {
 	const page = document.createElement("main");
 	page.className = "home-page page-shell";
 
+	// Quizzes concluídos ficam no fim; a ordenação estável preserva a ordem
+	// por data/título dentro de cada grupo.
+	const orderedQuizzes = [...options.quizzes].sort(
+		(a, b) =>
+			Number(options.progress[a.slug]?.status === "complete") -
+			Number(options.progress[b.slug]?.status === "complete"),
+	);
+
 	const header = document.createElement("header");
 	header.className = "site-header";
 	const brand = document.createElement("div");
@@ -84,7 +92,7 @@ export function renderHome(options: HomeViewOptions): HTMLElement {
 	} else {
 		const list = document.createElement("div");
 		list.className = "quiz-list";
-		for (const quiz of options.quizzes) {
+		for (const quiz of orderedQuizzes) {
 			const status = options.progress[quiz.slug]?.status;
 			const questionCount = quiz.questions.length;
 			const card = document.createElement("div");
