@@ -3,33 +3,33 @@
 	"description": "Perguntas sobre bilheteria, Oscars, elenco, gêneros, cenas, franquias e história do cinema.",
 	"questions": [
 		{
-			"question": "Qual filme tem a maior bilheteria mundial acumulada, sem ajuste pela inflação?",
-			"answer": "Avatar",
+			"question": "Qual filme tem a _maior_ bilheteria mundial acumulada, _sem ajuste pela inflação_?",
+			"answer": "*Avatar*",
 			"answerNote": "O ranking pode mudar com relançamentos e novas estreias."
 		},
 		{
-			"question": "Qual filme foi o primeiro a arrecadar mais de um bilhão de dólares nas bilheterias mundiais?",
-			"answer": "Titanic"
+			"question": "Qual filme foi o primeiro a arrecadar **mais de um bilhão de dólares** nas bilheterias mundiais?",
+			"answer": "*Titanic*"
 		},
 		{
-			"question": "Qual é o recorde de Oscars ganhos por um único filme?",
+			"question": "Qual é o recorde de *Oscars* ganhos por um único filme?",
 			"answer": "11",
-			"answerNote": "São eles: Ben-Hur, Titanic e O Senhor dos Anéis: O Retorno do Rei."
+			"answerNote": "São eles: Ben-Hur, *Titanic* e O Senhor dos Anéis: O Retorno do Rei."
 		},
 		{
-			"question": "Quem interpreta Indiana Jones nos filmes da franquia?",
+			"question": "Quem interpreta **Indiana Jones** nos filmes da franquia?",
 			"answer": "Harrison Ford"
 		},
 		{
-			"question": "Quem interpreta Jack Dawson em Titanic?",
+			"question": "Quem interpreta Jack Dawson em *Titanic*?",
 			"answer": "Leonardo DiCaprio"
 		},
 		{
-			"question": "Quem interpreta Hermione Granger nos filmes de Harry Potter?",
+			"question": "Quem interpreta **Hermione Granger** nos filmes de *Harry Potter*?",
 			"answer": "Emma Watson"
 		},
 		{
-			"question": "Quem faz a voz original de Woody nos filmes Toy Story?",
+			"question": "Quem faz a voz original de Woody nos filmes *Toy Story*?",
 			"answer": "Tom Hanks"
 		},
 		{
@@ -41,7 +41,7 @@
 			"answer": "Alfred Hitchcock"
 		},
 		{
-			"question": "Qual diretor realizou os filmes de terror Halloween e O Enigma de Outro Mundo?",
+			"question": "Qual diretor realizou os filmes de terror *Halloween* e O Enigma de Outro Mundo?",
 			"answer": "John Carpenter"
 		},
 		{
@@ -49,47 +49,47 @@
 			"answer": "Tubarão"
 		},
 		{
-			"question": "Em qual filme uma criança monta armadilhas para impedir que dois ladrões invadam sua casa durante as férias de Natal?",
+			"question": "Em qual filme uma criança **monta armadilhas** para impedir que dois ladrões invadam sua casa durante as férias de Natal?",
 			"answer": "Esqueceram de Mim"
 		},
 		{
 			"question": "Em qual filme um parque temático com animais extintos clonados perde o controle de suas atrações?",
-			"answer": "Jurassic Park / O Parque dos Dinossauros"
+			"answer": "*Jurassic Park* / O Parque dos Dinossauros"
 		},
 		{
-			"question": "Qual filme inaugurou o Universo Cinematográfico Marvel em ordem de lançamento?",
+			"question": "Qual filme inaugurou o Universo Cinematográfico Marvel em **ordem de lançamento**?",
 			"answer": "Homem de Ferro"
 		},
 		{
-			"question": "Qual foi o primeiro filme de Star Wars lançado nos cinemas?",
-			"answer": "Star Wars (mais tarde intitulado Episódio IV: Uma Nova Esperança)"
+			"question": "Qual foi o primeiro filme de *Star Wars* lançado nos cinemas?",
+			"answer": "*Star Wars* (mais tarde intitulado Episódio IV: Uma Nova Esperança)"
 		},
 		{
-			"question": "Quem é o pai de Luke Skywalker em Star Wars?",
+			"question": "Quem é o **pai de Luke Skywalker** em *Star Wars*?",
 			"answer": "Darth Vader, que nasceu Anakin Skywalker"
 		},
 		{
-			"question": "Qual é o primeiro filme da franquia Harry Potter?",
-			"answer": "Harry Potter e a Pedra Filosofal"
+			"question": "Qual é o primeiro filme da franquia *Harry Potter*?",
+			"answer": "*Harry Potter* e a Pedra Filosofal"
 		},
 		{
-			"question": "Qual ator criou e interpretou o personagem conhecido como O Vagabundo em vários filmes mudos?",
+			"question": "Qual ator criou e interpretou o personagem conhecido como **O Vagabundo** em vários filmes mudos?",
 			"answer": "Charlie Chaplin"
 		},
 		{
 			"question": "Qual filme de 1995 é geralmente reconhecido como o primeiro longa-metragem inteiramente feito com animação por computação gráfica?",
-			"answer": "Toy Story"
+			"answer": "*Toy Story*"
 		},
 		{
-			"question": "Qual comédia acompanha dois agentes do FBI que se disfarçam como duas herdeiras loiras?",
+			"question": "Qual comédia acompanha dois agentes do FBI que se disfarçam como **duas herdeiras loiras**?",
 			"answer": "As Branquelas"
 		},
 		{
-			"question": "Qual ator interpreta Michael Newman na comédia Click, de 2006?",
+			"question": "Qual ator interpreta Michael Newman na comédia *Click*, de 2006?",
 			"answer": "Adam Sandler"
 		},
 		{
-			"question": "Qual atriz interpreta Malévola no filme de mesmo nome, lançado em 2014?",
+			"question": "Qual atriz interpreta **Malévola** no filme de mesmo nome, lançado em 2014?",
 			"answer": "Angelina Jolie"
 		},
 		{
@@ -97,7 +97,7 @@
 			"answer": "Diamante de Sangue"
 		},
 		{
-			"question": "Em qual filme Nicolas Cage interpreta o traficante internacional de armas Yuri Orlov?",
+			"question": "Em qual filme Nicolas Cage interpreta o **traficante internacional de armas** Yuri Orlov?",
 			"answer": "O Senhor das Armas"
 		},
 		{
@@ -105,7 +105,7 @@
 			"answer": "Onde os Fracos Não Têm Vez"
 		},
 		{
-			"question": "Qual filme brasileiro de Hector Babenco, lançado em 2003, retrata a vida na Casa de Detenção de São Paulo?",
+			"question": "Qual filme brasileiro de Hector Babenco, lançado em 2003, retrata a vida na **Casa de Detenção** de São Paulo?",
 			"answer": "Carandiru"
 		},
 		{
@@ -113,15 +113,15 @@
 			"answer": "Django Livre"
 		},
 		{
-			"question": "Qual comédia de aventura estrelada por Bud Spencer acompanha um homem chamado Joe que luta para proteger seu comércio de bananas?",
-			"answer": "Banana Joe"
+			"question": "Qual comédia de aventura estrelada por Bud Spencer acompanha um homem chamado Joe que luta para proteger seu **comércio de bananas**?",
+			"answer": "*Banana Joe*"
 		},
 		{
 			"question": "Qual comédia de 2002 acompanha dois amigos que embarcam por engano em um cruzeiro para homens gays?",
 			"answer": "Cruzeiro das Loucas"
 		},
 		{
-			"question": "Qual ator interpreta o agente Ethan Hunt nos filmes da franquia Missão: Impossível?",
+			"question": "Qual ator interpreta o **agente Ethan Hunt** nos filmes da franquia Missão: Impossível?",
 			"answer": "Tom Cruise"
 		},
 		{

@@ -3,7 +3,7 @@
 	"description": "Perguntas sobre os estados, a geografia, a história e a cultura da região Sul do Brasil.",
 	"questions": [
 		{
-			"question": "Quantos estados formam a região **Sul**?",
+			"question": "Quantos estados formam a região Sul?",
 			"answer": "Três estados."
 		},
 		{
@@ -29,11 +29,11 @@
 		},
 		{
 			"question": "Onde fica localizada a **Ponte da Amizade**?",
-			"answer": "Entre Foz do Iguaçu, no Paraná, e Ciudad del Este, no Paraguai.",
+			"answer": "Entre Foz do Iguaçu, no Paraná, e *Ciudad del Este*, no Paraguai.",
 			"answerNote": "A ponte cruza o rio Paraná e liga Brasil e Paraguai."
 		},
 		{
-			"question": "Qual bioma de campos naturais ocupa a maior parte do sul do **Rio Grande do Sul**?",
+			"question": "Qual bioma de **campos naturais** ocupa a maior parte do sul do **Rio Grande do Sul**?",
 			"answer": "Pampa"
 		},
 		{
@@ -42,12 +42,12 @@
 			"answerNote": "O pinhão é a semente da araucária e é consumido em pratos típicos da região."
 		},
 		{
-			"question": "Qual bebida tradicional feita com erva-mate é muito associada ao **Rio Grande do Sul**?",
+			"question": "Qual bebida tradicional feita com **erva-mate** é muito associada ao Rio Grande do Sul?",
 			"answer": "Chimarrão"
 		},
 		{
 			"question": "Qual festa de Blumenau celebra tradições da imigração alemã?",
-			"answer": "Oktoberfest"
+			"answer": "*Oktoberfest*"
 		},
 		{
 			"question": "Qual parque estadual localizado em Ponta Grossa é conhecido por suas formações rochosas?",
@@ -63,7 +63,7 @@
 			"answer": "Rio Iguaçu"
 		},
 		{
-			"question": "Qual cidade catarinense é conhecida como a Capital Nacional da Dança e sedia um festival internacional?",
+			"question": "Qual cidade catarinense é conhecida como a **Capital Nacional da Dança** e sedia um festival internacional?",
 			"answer": "Joinville",
 			"answerNote": "A cidade recebe anualmente o Festival de Dança de Joinville."
 		},

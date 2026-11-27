@@ -3,11 +3,11 @@
 	"description": "Perguntas sobre os órgãos, sistemas e estruturas do corpo humano.",
 	"questions": [
 		{
-			"question": "Qual é o nome do maior osso do corpo humano?",
+			"question": "Qual é o nome do _maior_ osso do corpo humano?",
 			"answer": "Fêmur"
 		},
 		{
-			"question": "Qual é o nome do menor osso do corpo humano?",
+			"question": "Qual é o nome do _menor_ osso do corpo humano?",
 			"answer": "Estribo",
 			"answerNote": "Fica no ouvido médio."
 		},
@@ -16,7 +16,7 @@
 			"answer": "206"
 		},
 		{
-			"question": "Qual sistema é responsável pelo transporte de sangue?",
+			"question": "Qual sistema é responsável pelo **transporte de sangue**?",
 			"answer": "Sistema circulatório"
 		},
 		{
@@ -24,11 +24,11 @@
 			"answer": "Pâncreas"
 		},
 		{
-			"question": "Qual órgão é a proteção do corpo contra invasão de patógenos?",
+			"question": "Qual órgão é a **proteção do corpo** contra invasão de patógenos?",
 			"answer": "Pele"
 		},
 		{
-			"question": "Qual é o maior órgão do corpo humano?",
+			"question": "Qual é o _maior_ órgão do corpo humano?",
 			"answer": "Pele",
 			"answerNote": "É o maior órgão considerando a superfície corporal; o fígado é o maior órgão interno."
 		},
@@ -49,7 +49,7 @@
 			"answer": "Absorve nutrientes"
 		},
 		{
-			"question": "Quantas vértebras tem a coluna adulta?",
+			"question": "Quantas **vértebras tem a coluna adulta**?",
 			"answer": "33",
 			"answerNote": "7 cervicais, 12 torácicas, 5 lombares, 5 sacrais e geralmente 4 coccígeas."
 		},
@@ -58,7 +58,7 @@
 			"answer": "Patela"
 		},
 		{
-			"question": "Qual parte do corpo remove os resíduos do sangue?",
+			"question": "Qual parte do corpo remove os **resíduos do sangue**?",
 			"answer": "Rins"
 		},
 		{
@@ -66,7 +66,7 @@
 			"answer": "Retina"
 		},
 		{
-			"question": "Qual parte do corpo é o centro de comunicação do corpo?",
+			"question": "Qual parte do corpo é o **centro de comunicação do corpo**?",
 			"answer": "Sistema nervoso central"
 		},
 		{
@@ -74,7 +74,7 @@
 			"answer": "Crânio"
 		},
 		{
-			"question": "Qual sistema produz e libera hormônios na corrente sanguínea?",
+			"question": "Qual sistema produz e **libera hormônios** na corrente sanguínea?",
 			"answer": "Sistema endócrino"
 		},
 		{

@@ -7,48 +7,48 @@
 			"answer": "Nove estados."
 		},
 		{
-			"question": "Qual é a capital de Alagoas?",
+			"question": "Qual é a capital de **Alagoas**?",
 			"answer": "Maceió"
 		},
 		{
-			"question": "Qual é a capital da Bahia?",
+			"question": "Qual é a capital da **Bahia**?",
 			"answer": "Salvador"
 		},
 		{
-			"question": "Qual é a capital do Ceará?",
+			"question": "Qual é a capital do **Ceará**?",
 			"answer": "Fortaleza"
 		},
 		{
-			"question": "Qual é a capital do Maranhão?",
+			"question": "Qual é a capital do **Maranhão**?",
 			"answer": "São Luís"
 		},
 		{
-			"question": "Qual é a capital da Paraíba?",
+			"question": "Qual é a capital da **Paraíba**?",
 			"answer": "João Pessoa"
 		},
 		{
-			"question": "Qual é a capital de Pernambuco?",
+			"question": "Qual é a capital de **Pernambuco**?",
 			"answer": "Recife"
 		},
 		{
-			"question": "Qual é a capital do Piauí?",
+			"question": "Qual é a capital do **Piauí**?",
 			"answer": "Teresina",
 			"answerNote": "É a única capital estadual do Nordeste que não fica no litoral."
 		},
 		{
-			"question": "Qual é a capital do Rio Grande do Norte?",
+			"question": "Qual é a capital do **Rio Grande do Norte**?",
 			"answer": "Natal"
 		},
 		{
-			"question": "Qual é a capital de Sergipe?",
+			"question": "Qual é a capital de **Sergipe**?",
 			"answer": "Aracaju"
 		},
 		{
-			"question": "Qual é a única capital nordestina que não está localizada no litoral?",
+			"question": "Qual é a única capital nordestina que _não_ está localizada no litoral?",
 			"answer": "Teresina"
 		},
 		{
-			"question": "Qual bioma exclusivamente brasileiro ocupa grande parte do interior nordestino?",
+			"question": "Qual **bioma exclusivamente brasileiro** ocupa grande parte do interior nordestino?",
 			"answer": "Caatinga"
 		},
 		{
@@ -57,7 +57,7 @@
 			"answerNote": "O parque tem dunas e lagoas sazonais e foi reconhecido como Patrimônio Mundial Natural pela UNESCO em 2024."
 		},
 		{
-			"question": "Qual importante rio brasileiro atravessa o Nordeste e deságua no Oceano Atlântico entre Alagoas e Sergipe?",
+			"question": "Qual importante rio brasileiro atravessa o Nordeste e **deságua no Oceano Atlântico** entre Alagoas e Sergipe?",
 			"answer": "Rio São Francisco"
 		},
 		{
@@ -65,7 +65,7 @@
 			"answer": "Fernando de Noronha"
 		},
 		{
-			"question": "Qual parque nacional do Piauí abriga sítios arqueológicos e pinturas rupestres?",
+			"question": "Qual parque nacional do Piauí abriga **sítios arqueológicos e pinturas rupestres**?",
 			"answer": "Parque Nacional da Serra da Capivara"
 		},
 		{
@@ -73,7 +73,7 @@
 			"answer": "Frevo"
 		},
 		{
-			"question": "Quem ficou conhecido como o Rei do Baião?",
+			"question": "Quem ficou conhecido como o **Rei do Baião**?",
 			"answer": "Luiz Gonzaga",
 			"answerNote": "Cantor, compositor e sanfoneiro nascido em Exu, Pernambuco."
 		},
@@ -82,7 +82,7 @@
 			"answer": "Bahia"
 		},
 		{
-			"question": "Qual cidade baiana é uma das principais portas de entrada para a Chapada Diamantina?",
+			"question": "Qual cidade baiana é uma das principais portas de entrada para a **Chapada Diamantina**?",
 			"answer": "Lençóis",
 			"answerNote": "A cidade preserva um conjunto histórico ligado ao ciclo do garimpo de diamantes."
 		},
@@ -92,7 +92,7 @@
 			"answerNote": "Ou `São João de Campina Grande`."
 		},
 		{
-			"question": "Qual cidade maranhense tem um centro histórico reconhecido como Patrimônio Mundial?",
+			"question": "Qual cidade maranhense tem um **centro histórico** reconhecido como **Patrimônio Mundial**?",
 			"answer": "São Luís"
 		},
 		{
@@ -101,7 +101,7 @@
 			"answerNote": "Foi companheira de Lampião e uma das mulheres mais conhecidas do movimento do cangaço."
 		},
 		{
-			"question": "Qual cidade pernambucana vizinha a Recife tem um centro histórico reconhecido como Patrimônio Mundial?",
+			"question": "Qual cidade pernambucana vizinha a Recife tem um **centro histórico** reconhecido como **Patrimônio Mundial**?",
 			"answer": "Olinda"
 		}
 	]

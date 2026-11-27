@@ -7,15 +7,15 @@
 			"answer": "Pente"
 		},
 		{
-			"question": "Quanto mais você tira, maior fica.",
+			"question": "Quanto mais você tira, _maior_ fica.",
 			"answer": "Buraco"
 		},
 		{
-			"question": "Tem cidades sem casas, rios sem água e florestas sem árvores.",
+			"question": "Tem cidades _sem casas_, rios _sem água_ e florestas _sem árvores_.",
 			"answer": "Mapa"
 		},
 		{
-			"question": "Fica molhada enquanto seca.",
+			"question": "Fica **molhada** enquanto seca.",
 			"answer": "Toalha"
 		},
 		{
@@ -31,7 +31,7 @@
 			"answer": "Promessa"
 		},
 		{
-			"question": "Enche um quarto inteiro, mas não ocupa espaço.",
+			"question": "Enche um quarto inteiro, mas _não_ ocupa espaço.",
 			"answer": "Ar / Luz"
 		},
 		{
@@ -39,15 +39,15 @@
 			"answer": "Mesa / Cadeira"
 		},
 		{
-			"question": "Viaja pelo mundo sem sair do canto de um envelope.",
+			"question": "Viaja pelo mundo _sem_ sair do canto de um envelope.",
 			"answer": "Selo"
 		},
 		{
-			"question": "Corre sem ter pernas e tem leito sem dormir.",
+			"question": "Corre _sem_ ter pernas e tem leito _sem_ dormir.",
 			"answer": "Rio"
 		},
 		{
-			"question": "Qual chave aperta parafusos, mas não abre portas?",
+			"question": "Qual chave **aperta parafusos**, mas _não_ abre portas?",
 			"answer": "Chave de fenda"
 		},
 		{
@@ -63,7 +63,7 @@
 			"answer": "Seu cotovelo direito"
 		},
 		{
-			"question": "Está cheia de buracos, mas ainda consegue segurar água.",
+			"question": "Está **cheia de buracos**, mas ainda consegue segurar água.",
 			"answer": "Esponja"
 		},
 		{
@@ -71,7 +71,7 @@
 			"answer": "Escada"
 		},
 		{
-			"question": "Tem botões, mas não veste camisa; muda de canal sem sair do sofá.",
+			"question": "Tem botões, mas _não_ veste camisa; muda de canal _sem_ sair do sofá.",
 			"answer": "Controle remoto"
 		}
 	]

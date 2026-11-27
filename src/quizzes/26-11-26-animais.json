@@ -8,7 +8,7 @@
 			"answerNote": "Aranhas não são insetos: os insetos têm seis patas, enquanto aracnídeos adultos geralmente têm oito."
 		},
 		{
-			"question": "Qual é o maior réptil vivo do mundo?",
+			"question": "Qual é o _maior_ réptil vivo do mundo?",
 			"answer": "Crocodilo-de-água-salgada",
 			"answerNote": "Também chamado de crocodilo-marinho, pode ultrapassar seis metros de comprimento."
 		},
@@ -25,7 +25,7 @@
 			"answer": "Ornitorrinco"
 		},
 		{
-			"question": "Qual é o maior animal conhecido que já viveu na Terra?",
+			"question": "Qual é o _maior_ animal conhecido que já viveu na Terra?",
 			"answer": "Baleia-azul",
 			"answerNote": "Ela é maior que qualquer dinossauro conhecido e pode passar de 30 metros de comprimento."
 		},
@@ -34,7 +34,7 @@
 			"answer": "Insetos"
 		},
 		{
-			"question": "Qual réptil pode mudar a cor da pele e mover cada olho em uma direção diferente?",
+			"question": "Qual réptil pode **mudar a cor da pele** e mover cada olho em uma direção diferente?",
 			"answer": "Camaleão",
 			"answerNote": "A mudança de cor também pode servir para comunicação e regulação da temperatura, não apenas para camuflagem."
 		},
@@ -44,7 +44,7 @@
 			"answerNote": "Esquilos-voadores planam, mas não batem as asas para voar como os morcegos."
 		},
 		{
-			"question": "Qual animal é considerado o mais abundante entre os insetos sociais, com estimativas de cerca de 20 quadrilhões de indivíduos no planeta?",
+			"question": "Qual animal é considerado o mais abundante entre os insetos sociais, com estimativas de cerca de **20 quadrilhões** de indivíduos no planeta?",
 			"answer": "Formiga",
 			"answerNote": "É uma estimativa científica global, não uma contagem exata; ela se refere às formigas, não a todos os animais microscópicos."
 		},
@@ -54,7 +54,7 @@
 			"answerNote": "O risco vem principalmente de doenças transmitidas por algumas espécies, como malária, dengue e febre amarela."
 		},
 		{
-			"question": "Qual é o maior felino do mundo?",
+			"question": "Qual é o _maior_ felino do mundo?",
 			"answer": "Tigre"
 		},
 		{
@@ -62,7 +62,7 @@
 			"answer": "Metamorfose completa"
 		},
 		{
-			"question": "Qual grupo de vertebrados possui pele geralmente coberta por escamas e depende de fontes externas de calor para regular a temperatura corporal?",
+			"question": "Qual grupo de **vertebrados** possui pele geralmente coberta por escamas e depende de **fontes externas de calor** para regular a temperatura corporal?",
 			"answer": "Répteis",
 			"answerNote": "Por isso, muitos répteis se aquecem ao sol; eles não mantêm a temperatura corporal constante como as aves e os mamíferos."
 		},
@@ -71,7 +71,7 @@
 			"answer": "Golfinho"
 		},
 		{
-			"question": "Como se chama a estrutura rígida externa que protege o corpo de muitos insetos e crustáceos?",
+			"question": "Como se chama a **estrutura rígida externa** que protege o corpo de muitos insetos e crustáceos?",
 			"answer": "Exoesqueleto"
 		},
 		{
@@ -80,7 +80,7 @@
 			"answerNote": "Esse comportamento é chamado de filopatria natal; ele não ocorre de forma idêntica em todas as espécies."
 		},
 		{
-			"question": "Qual é o maior peixe do mundo, apesar de se alimentar principalmente filtrando pequenos organismos da água?",
+			"question": "Qual é o _maior_ peixe do mundo, apesar de se alimentar principalmente filtrando pequenos organismos da água?",
 			"answer": "Tubarão-baleia"
 		},
 		{
@@ -88,7 +88,7 @@
 			"answer": "Abelha"
 		},
 		{
-			"question": "Como se chama a relação em que um animal captura e consome outro animal?",
+			"question": "Como se chama a relação em que um animal **captura e consome** outro animal?",
 			"answer": "Predação"
 		},
 		{
@@ -96,7 +96,7 @@
 			"answer": "Marsupiais"
 		},
 		{
-			"question": "Qual réptil tem uma carapaça que protege o corpo e pode viver tanto em ambientes terrestres quanto aquáticos, dependendo da espécie?",
+			"question": "Qual réptil tem uma **carapaça** que protege o corpo e pode viver tanto em ambientes terrestres quanto aquáticos, dependendo da espécie?",
 			"answer": "Tartaruga",
 			"answerNote": "Cágados, jabutis e tartarugas pertencem à ordem das tartarugas, mas ocupam ambientes e têm hábitos diferentes."
 		},
@@ -105,7 +105,7 @@
 			"answer": "Girafa"
 		},
 		{
-			"question": "Como se chama o processo em que animais como cobras trocam a camada externa da pele?",
+			"question": "Como se chama o processo em que animais como cobras trocam a **camada externa da pele**?",
 			"answer": "Ecdise",
 			"answerNote": "A ecdise também ocorre em outros artrópodes; em cobras, a pele antiga costuma sair em uma peça."
 		},
@@ -114,7 +114,7 @@
 			"answer": "Tamanduá"
 		},
 		{
-			"question": "Qual é o nome dado aos animais que se alimentam tanto de matéria vegetal quanto de outros animais?",
+			"question": "Qual é o nome dado aos animais que se alimentam tanto de **matéria vegetal** quanto de outros animais?",
 			"answer": "Onívoros"
 		},
 		{
@@ -132,12 +132,12 @@
 			"answerNote": "Também chamada de imobilidade tônica, pode incluir ficar rígido e reduzir os movimentos por algum tempo."
 		},
 		{
-			"question": "Qual salamandra aquática mexicana é conhecida por conseguir regenerar membros perdidos?",
+			"question": "Qual salamandra aquática mexicana é conhecida por conseguir **regenerar membros perdidos**?",
 			"answer": "Axolote",
 			"answerNote": "Esse fenômeno é chamado de neotenia. Em condições específicas, o axolote pode passar por metamorfose, mas normalmente conserva a forma aquática."
 		},
 		{
-			"question": "Qual grande águia das florestas tropicais das Américas é frequentemente chamada de a maior ave de rapina do mundo?",
+			"question": "Qual grande águia das florestas tropicais das Américas é frequentemente chamada de a _maior_ ave de rapina do mundo?",
 			"answer": "Harpia",
 			"answerNote": "A harpia é uma das maiores e mais poderosas águias. Comparações de \"maior\" podem variar conforme se considera massa, comprimento ou envergadura."
 		},
@@ -172,7 +172,7 @@
 			"answerNote": "É um predador voraz que pode afetar peixes nativos e ecossistemas recifais. Seus espinhos podem causar acidentes dolorosos."
 		},
 		{
-			"question": "Qual peixe amazônico de água doce é considerado um dos maiores do mundo?",
+			"question": "Qual peixe amazônico de água doce é considerado um dos _maiores_ do mundo?",
 			"answer": "Pirarucu"
 		},
 		{
@@ -180,7 +180,7 @@
 			"answer": "Guepardo"
 		},
 		{
-			"question": "Qual crustáceo marinho desfere um golpe tão rápido e potente que pode quebrar conchas?",
+			"question": "Qual crustáceo marinho desfere um golpe tão rápido e potente que pode **quebrar conchas**?",
 			"answer": "Camarão Louva-a-Deus / Lagosta Boxeadora",
 			"answerNote": "Tamarutaca é o nome usado no Brasil para estomatópodes, também chamados de camarões-louva-a-deus. Algumas espécies golpeiam com apêndices especializados em alta velocidade."
 		},
@@ -190,7 +190,7 @@
 			"answerNote": "Polvos e lulas são cefalópodes; lesmas são gastrópodes. Ambos pertencem ao filo dos moluscos."
 		},
 		{
-			"question": "Qual cetáceo do Ártico é chamado de unicórnio-do-mar por causa de seu longo dente em espiral?",
+			"question": "Qual cetáceo do Ártico é chamado de **unicórnio-do-mar** por causa de seu longo dente em espiral?",
 			"answer": "Narval",
 			"answerNote": "A longa presa do narval é, na verdade, um dente alongado."
 		},
@@ -199,7 +199,7 @@
 			"answer": "Diabo-da-Tasmânia"
 		},
 		{
-			"question": "Qual mamífero de regiões áridas pode ter uma ou duas corcovas onde ele armazena gordura?",
+			"question": "Qual mamífero de regiões áridas pode ter uma ou duas **corcovas** onde ele armazena gordura?",
 			"answer": "Camelo",
 			"answerNote": "As corcovas armazenam gordura, não água."
 		},

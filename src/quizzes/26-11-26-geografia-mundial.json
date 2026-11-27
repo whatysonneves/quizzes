@@ -3,73 +3,73 @@
 	"description": "Perguntas sobre continentes, oceanos, países, rios, montanhas e outros marcos geográficos do planeta.",
 	"questions": [
 		{
-			"question": "Qual é o maior deserto quente do mundo?",
+			"question": "Qual é o _maior_ deserto **quente** do mundo?",
 			"answer": "Deserto do Saara",
 			"answerNote": "O Deserto do Saara é deserto quente; a Antártida é o maior deserto."
 		},
 		{
-			"question": "Qual é o maior deserto do mundo?",
+			"question": "Qual é o _maior_ deserto do mundo?",
 			"answer": "Antártida",
 			"answerNote": "A Antártida é um deserto frio; o Saara é o maior deserto quente."
 		},
 		{
-			"question": "Qual é o maior continente do mundo em área?",
+			"question": "Qual é o _maior_ continente do mundo em área?",
 			"answer": "Ásia"
 		},
 		{
-			"question": "Qual é o menor continente do mundo em área?",
+			"question": "Qual é o _menor_ continente do mundo em área?",
 			"answer": "Oceania"
 		},
 		{
-			"question": "Qual é o maior oceano do planeta?",
+			"question": "Qual é o _maior_ oceano do planeta?",
 			"answer": "Oceano Pacífico"
 		},
 		{
-			"question": "Qual é o menor oceano do planeta?",
+			"question": "Qual é o _menor_ oceano do planeta?",
 			"answer": "Oceano Ártico"
 		},
 		{
-			"question": "Qual é o maior País do mundo em área?",
+			"question": "Qual é o _maior_ País do mundo em área?",
 			"answer": "Rússia"
 		},
 		{
-			"question": "Qual é o menor Estado soberano do mundo em área?",
+			"question": "Qual é o _menor_ Estado soberano do mundo em área?",
 			"answer": "Vaticano",
 			"answerNote": "A Cidade do Vaticano é um Estado independente dentro de Roma, na Itália."
 		},
 		{
-			"question": "Qual é a montanha mais alta do mundo acima do nível do mar?",
+			"question": "Qual é a montanha _mais alta_ do mundo acima do nível do mar?",
 			"answer": "Monte Everest",
 			"answerNote": "É a maior altitude em relação ao nível do mar; outras montanhas podem ser mais altas se medidas desde a base submarina."
 		},
 		{
-			"question": "Qual é a fossa oceânica mais profunda conhecida?",
+			"question": "Qual é a fossa oceânica _mais profunda_ conhecida?",
 			"answer": "Fossa das Marianas"
 		},
 		{
-			"question": "Qual é a mais longa cadeia de montanhas em terra firme?",
+			"question": "Qual é a _mais longa_ cadeia de montanhas em terra firme?",
 			"answer": "Cordilheira dos Andes",
 			"answerNote": "A dorsal meso-oceânica é mais extensa, mas fica submersa."
 		},
 		{
-			"question": "Qual é o maior país da África em área?",
+			"question": "Qual é o _maior_ país da África em área?",
 			"answer": "Argélia"
 		},
 		{
-			"question": "Qual é o ponto mais alto da África?",
+			"question": "Qual é o ponto _mais alto_ da África?",
 			"answer": "Monte Kilimanjaro"
 		},
 		{
-			"question": "Qual é o rio mais longo da Europa?",
+			"question": "Qual é o rio _mais longo_ da Europa?",
 			"answer": "Rio Volga"
 		},
 		{
-			"question": "Qual é o maior lago do mundo em área?",
+			"question": "Qual é o _maior_ lago do mundo em área?",
 			"answer": "Mar Cáspio",
 			"answerNote": "Apesar do nome, é um corpo de água interior fechado, geralmente classificado como lago."
 		},
 		{
-			"question": "Qual rio transporta o maior volume de água do mundo?",
+			"question": "Qual rio transporta o _maior_ volume de água do mundo?",
 			"answer": "Rio Amazonas",
 			"answerNote": "A resposta considera a vazão; o rio mais longo é uma comparação diferente."
 		},
@@ -78,7 +78,7 @@
 			"answer": "Mar Mediterrâneo"
 		},
 		{
-			"question": "Qual mar separa a Península Arábica do nordeste da África?",
+			"question": "Qual mar separa a Península Arábica do **nordeste da África**?",
 			"answer": "Mar Vermelho"
 		},
 		{
@@ -86,7 +86,7 @@
 			"answer": "Estreito de Gibraltar"
 		},
 		{
-			"question": "Qual canal liga o mar Mediterrâneo ao mar Vermelho?",
+			"question": "Qual canal **liga o mar Mediterrâneo ao mar Vermelho**?",
 			"answer": "Canal de Suez"
 		},
 		{
@@ -102,23 +102,23 @@
 			"answer": "Rio Tâmisa"
 		},
 		{
-			"question": "Qual é a maior península do mundo?",
+			"question": "Qual é a _maior_ península do mundo?",
 			"answer": "Península Arábica"
 		},
 		{
-			"question": "Qual linha imaginária divide a Terra nos hemisférios Norte e Sul?",
+			"question": "Qual linha imaginária divide a Terra nos hemisférios **Norte e Sul**?",
 			"answer": "Linha do Equador"
 		},
 		{
-			"question": "Em qual continente fica o Polo Sul geográfico?",
+			"question": "Em qual continente fica o **Polo Sul geográfico**?",
 			"answer": "Antártida"
 		},
 		{
-			"question": "Qual país europeu tem um formato que lembra uma bota?",
+			"question": "Qual país europeu tem um **formato** que lembra uma **bota**?",
 			"answer": "Itália"
 		},
 		{
-			"question": "Qual cordilheira forma uma fronteira natural entre França e Espanha?",
+			"question": "Qual cordilheira forma uma **fronteira natural** entre França e Espanha?",
 			"answer": "Pireneus"
 		},
 		{
@@ -127,7 +127,7 @@
 			"answerNote": "São os oceanos Pacífico, Atlântico, Índico, Antártico e Ártico."
 		},
 		{
-			"question": "Quantos continentes existem?",
+			"question": "Quantos **continentes existem**?",
 			"answer": "Seis",
 			"answerNote": "Nesta convenção, são América, África, Europa, Ásia, Oceania e Antártida. Alguns países usam modelos que dividem a América em dois continentes."
 		}

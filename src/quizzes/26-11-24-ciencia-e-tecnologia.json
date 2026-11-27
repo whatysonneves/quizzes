@@ -7,7 +7,7 @@
 			"answer": "H₂O"
 		},
 		{
-			"question": "Qual gás as plantas absorvem durante a fotossíntese?",
+			"question": "Qual gás as plantas absorvem durante a **fotossíntese**?",
 			"answer": "Dióxido de carbono",
 			"answerNote": "As plantas também usam água e energia da luz nesse processo."
 		},
@@ -16,7 +16,7 @@
 			"answer": "Oxigênio"
 		},
 		{
-			"question": "Qual é a menor unidade básica dos seres vivos?",
+			"question": "Qual é a _menor_ unidade básica dos seres vivos?",
 			"answer": "Célula"
 		},
 		{
@@ -24,7 +24,7 @@
 			"answer": "DNA"
 		},
 		{
-			"question": "Que forma tem a estrutura clássica do DNA?",
+			"question": "Que forma tem a estrutura clássica do **DNA**?",
 			"answer": "Dupla hélice"
 		},
 		{
@@ -36,47 +36,47 @@
 			"answer": "Joule"
 		},
 		{
-			"question": "Segundo uma afirmação popular, quantos países não adotam o Sistema Internacional de Medidas?",
+			"question": "Segundo uma afirmação popular, quantos países _não_ adotam o Sistema Internacional de Medidas?",
 			"answer": "Três",
 			"answerNote": "A afirmação costuma citar Estados Unidos, Myanmar e Libéria, mas é um mito: todos os países reconheceram e adotaram o SI; o que varia é o uso obrigatório ou cotidiano."
 		},
 		{
-			"question": "A quantos graus Celsius corresponde aproximadamente o zero absoluto?",
+			"question": "A quantos graus Celsius corresponde aproximadamente o **zero absoluto**?",
 			"answer": "−273 °C",
 			"answerNote": "O zero absoluto corresponde a 0 K, ou exatamente −273,15 °C."
 		},
 		{
-			"question": "Que força de atração age entre corpos com massa?",
+			"question": "Que força de atração age entre **corpos com massa**?",
 			"answer": "Gravidade"
 		},
 		{
-			"question": "Qual partícula subatômica tem carga elétrica negativa?",
+			"question": "Qual partícula subatômica tem **carga elétrica negativa**?",
 			"answer": "Elétron"
 		},
 		{
-			"question": "Como se chama a região central de um átomo?",
+			"question": "Como se chama a região **central** de um **átomo**?",
 			"answer": "Núcleo",
 			"answerNote": "O núcleo contém prótons e, na maioria dos átomos, nêutrons."
 		},
 		{
-			"question": "Qual processo produz a energia liberada pelo Sol?",
+			"question": "Qual processo produz a **energia** liberada pelo **Sol**?",
 			"answer": "Fusão nuclear"
 		},
 		{
-			"question": "Qual processo nuclear libera energia ao dividir núcleos atômicos pesados em núcleos menores?",
+			"question": "Qual processo libera energia ao dividir **núcleos atômicos pesados** em **núcleos menores**?",
 			"answer": "Fissão nuclear",
 			"answerNote": "Na fissão, um núcleo pesado se divide; na fusão, núcleos leves se unem. Ambos os processos podem liberar energia."
 		},
 		{
-			"question": "Qual é o maior planeta do Sistema Solar?",
+			"question": "Qual é o _maior_ planeta do Sistema Solar?",
 			"answer": "Júpiter"
 		},
 		{
-			"question": "Qual planeta é conhecido como Planeta Vermelho?",
+			"question": "Qual planeta é conhecido como **Planeta Vermelho**?",
 			"answer": "Marte"
 		},
 		{
-			"question": "Qual corpo celeste deixou de ser classificado como planeta do Sistema Solar e passou a ser considerado planeta anão?",
+			"question": "Qual corpo celeste deixou de ser classificado como planeta do Sistema Solar e passou a ser considerado **planeta anão**?",
 			"answer": "Plutão",
 			"answerNote": "Em 2006, a União Astronômica Internacional reclassificou Plutão como planeta anão."
 		},
@@ -85,7 +85,7 @@
 			"answer": "Via Láctea"
 		},
 		{
-			"question": "O que um ano-luz mede?",
+			"question": "O que um **ano-luz** mede?",
 			"answer": "Distância",
 			"answerNote": "É a distância que a luz percorre em um ano, não uma medida de tempo."
 		},
@@ -95,42 +95,42 @@
 			"answerNote": "O valor médio é cerca de 8,3 minutos."
 		},
 		{
-			"question": "Quais dois algarismos são usados no sistema binário?",
-			"answer": "0 e 1"
+			"question": "Quais dois algarismos são usados no **sistema binário**?",
+			"answer": "`0` e `1`"
 		},
 		{
-			"question": "Qual é a menor unidade de informação digital?",
-			"answer": "Bit"
+			"question": "Qual é a _menor_ unidade de informação digital?",
+			"answer": "*Bit*"
 		},
 		{
-			"question": "O que significa a sigla CPU?",
+			"question": "O que significa a sigla *CPU*?",
 			"answer": "Unidade Central de Processamento",
-			"answerNote": "A sigla vem do inglês Central Processing Unit."
+			"answerNote": "A sigla vem do inglês *Central Processing Unit*."
 		},
 		{
 			"question": "Como se chama uma sequência finita de instruções para resolver um problema?",
 			"answer": "Algoritmo"
 		},
 		{
-			"question": "Qual área da computação cria sistemas capazes de realizar tarefas associadas à inteligência humana?",
+			"question": "Qual área da computação cria sistemas capazes de realizar tarefas associadas à **inteligência humana**?",
 			"answer": "Inteligência artificial"
 		},
 		{
 			"question": "Qual memória guarda temporariamente dados em uso pelo computador?",
-			"answer": "RAM",
+			"answer": "*RAM*",
 			"answerNote": "É volátil: seu conteúdo se perde quando o equipamento é desligado."
 		},
 		{
-			"question": "Como se chama a fabricação de objetos pela adição de camadas sucessivas?",
+			"question": "Como se chama a fabricação de objetos pela **adição de camadas sucessivas**?",
 			"answer": "Impressão 3D",
 			"answerNote": "Também é conhecida como fabricação aditiva."
 		},
 		{
 			"question": "Como é chamado um erro em um programa de computador?",
-			"answer": "Bug"
+			"answer": "*Bug*"
 		},
 		{
-			"question": "Como se chama o fenômeno em que a Lua encobre total ou parcialmente o Sol?",
+			"question": "Como se chama o fenômeno em que a **Lua encobre total ou parcialmente o Sol**?",
 			"answer": "Eclipse solar"
 		},
 		{
@@ -138,7 +138,7 @@
 			"answer": "Isaac Newton"
 		},
 		{
-			"question": "Qual elemento químico é essencial para a formação dos ossos e dentes?",
+			"question": "Qual elemento químico é essencial para a formação dos **ossos e dentes**?",
 			"answer": "Cálcio"
 		},
 		{
@@ -146,7 +146,7 @@
 			"answer": "Mercúrio"
 		},
 		{
-			"question": "Qual escala é popularmente associada à medição da magnitude dos terremotos?",
+			"question": "Qual escala é popularmente associada à medição da **magnitude dos terremotos**?",
 			"answer": "Escala Richter",
 			"answerNote": "A escala Richter é popularmente associada à magnitude sísmica. Atualmente, terremotos grandes são reportados pela magnitude de momento (Mw); a intensidade local pode ser descrita pela escala Mercalli Modificada."
 		},
@@ -155,7 +155,7 @@
 			"answer": "Hidrogênio"
 		},
 		{
-			"question": "Qual é o planeta mais próximo do Sol?",
+			"question": "Qual é o planeta _mais próximo_ do Sol?",
 			"answer": "Mercúrio"
 		}
 	]

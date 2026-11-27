@@ -16,7 +16,7 @@
 			"answer": "Subtração"
 		},
 		{
-			"question": "Qual operação representa a adição repetida de parcelas iguais?",
+			"question": "Qual operação representa a **adição repetida de parcelas iguais**?",
 			"answer": "Multiplicação"
 		},
 		{
@@ -24,16 +24,16 @@
 			"answer": "Divisão"
 		},
 		{
-			"question": "Como se chama a operação de multiplicar um número por ele mesmo várias vezes?",
+			"question": "Como se chama a operação de **multiplicar um número por ele mesmo** várias vezes?",
 			"answer": "Potenciação",
 			"answerNote": "Por exemplo, 2⁴ significa 2 × 2 × 2 × 2."
 		},
 		{
-			"question": "Qual número não altera outro número quando somado a ele?",
+			"question": "Qual número _não_ altera outro número quando somado a ele?",
 			"answer": "Zero"
 		},
 		{
-			"question": "Qual número não altera outro número quando multiplicado por ele?",
+			"question": "Qual número _não_ altera outro número quando multiplicado por ele?",
 			"answer": "Um"
 		},
 		{
@@ -50,7 +50,7 @@
 			"answerNote": "Consideram-se divisores positivos. O número 1 não é primo."
 		},
 		{
-			"question": "Como se chama o número que fica abaixo do traço em uma fração?",
+			"question": "Como se chama o **número que fica abaixo do traço** em uma fração?",
 			"answer": "Denominador"
 		},
 		{
@@ -58,7 +58,7 @@
 			"answer": "90°"
 		},
 		{
-			"question": "Qual fórmula calcula a área de um retângulo?",
+			"question": "Qual fórmula calcula a **área de um retângulo**?",
 			"answer": "Base × altura"
 		},
 		{
@@ -66,7 +66,7 @@
 			"answer": "16 cm²"
 		},
 		{
-			"question": "Qual fórmula calcula a área de um círculo?",
+			"question": "Qual fórmula calcula a **área de um círculo**?",
 			"answer": "π × raio²",
 			"answerNote": "O raio é a distância do centro até a borda do círculo."
 		},
@@ -75,7 +75,7 @@
 			"answer": "Somando os lados"
 		},
 		{
-			"question": "Como se chama o triângulo que tem os três lados iguais?",
+			"question": "Como se chama o triângulo que tem os **três lados iguais**?",
 			"answer": "Equilátero"
 		},
 		{
@@ -83,7 +83,7 @@
 			"answer": "Pentágono"
 		},
 		{
-			"question": "Se jogar uma moeda 9 vezes, e em todas o resultado for cara, na décima vez, qual a probabilidade de sair cara de novo?",
+			"question": "Se jogar uma moeda 9 vezes, e em todas o resultado for cara, na décima vez, qual a **probabilidade de sair cara de novo**?",
 			"answer": "1/2 (50%)"
 		},
 		{
@@ -91,7 +91,7 @@
 			"answer": "1/2 (50%)"
 		},
 		{
-			"question": "Como se chama um número que pode ser dividido por 2 sem deixar resto?",
+			"question": "Como se chama um número que pode ser dividido por 2 _sem_ deixar resto?",
 			"answer": "Número par"
 		},
 		{
@@ -99,7 +99,7 @@
 			"answer": "75%"
 		},
 		{
-			"question": "Qual é o único número primo que é par?",
+			"question": "Qual é o único **número primo** que é par?",
 			"answer": "2"
 		},
 		{
@@ -107,7 +107,7 @@
 			"answer": "Seis"
 		},
 		{
-			"question": "Quanto representa 10% de 200?",
+			"question": "Quanto representa **10% de 200**?",
 			"answer": "20"
 		},
 		{
@@ -115,7 +115,7 @@
 			"answer": "30"
 		},
 		{
-			"question": "Quantos centímetros existem em um metro?",
+			"question": "Quantos **centímetros existem em um metro**?",
 			"answer": "100"
 		},
 		{
@@ -123,7 +123,7 @@
 			"answer": "Seis"
 		},
 		{
-			"question": "Quantos lados possui um octógono?",
+			"question": "Quantos **lados possui um octógono**?",
 			"answer": "Oito"
 		},
 		{
@@ -131,7 +131,7 @@
 			"answer": "60"
 		},
 		{
-			"question": "Se um produto custa R$ 100 e recebe um desconto de 15%, qual será seu preço final?",
+			"question": "Se um produto custa R$ 100 e recebe um **desconto de 15%**, qual será seu preço final?",
 			"answer": "R$ 85,00"
 		}
 	]

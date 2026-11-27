@@ -15,7 +15,7 @@
 			"answer": "Antoni Gaudí"
 		},
 		{
-			"question": "Quem foi a primeira mulher a receber o Prêmio Pritzker de Arquitetura?",
+			"question": "Quem foi a **primeira mulher** a receber o Prêmio Pritzker de Arquitetura?",
 			"answer": "Zaha Hadid"
 		},
 		{
@@ -47,7 +47,7 @@
 			"answer": "Aleijadinho"
 		},
 		{
-			"question": "Qual estilo arquitetônico é conhecido por seus arcos pontiagudos e grandes vitrais?",
+			"question": "Qual estilo arquitetônico é conhecido por seus **arcos pontiagudos** e **grandes vitrais**?",
 			"answer": "Gótico"
 		},
 		{
@@ -55,7 +55,7 @@
 			"answer": "Barroco"
 		},
 		{
-			"question": "Qual movimento arquitetônico do século XX valorizou linhas simples e a ideia de que a forma deve acompanhar a função?",
+			"question": "Qual movimento arquitetônico do século XX valorizou linhas simples e a ideia de que a **forma deve acompanhar a função**?",
 			"answer": "Modernismo",
 			"answerNote": "A expressão \"a forma segue a função\" é associada ao funcionalismo e à arquitetura moderna."
 		},
@@ -64,7 +64,7 @@
 			"answer": "Clássico"
 		},
 		{
-			"question": "Qual abordagem arquitetônica reduz os elementos ao essencial e é associada à expressão \"menos é mais\"?",
+			"question": "Qual abordagem arquitetônica reduz os elementos ao essencial e é associada à expressão \"**menos é mais**\"?",
 			"answer": "Minimalismo",
 			"answerNote": "A expressão \"menos é mais\" é especialmente associada ao arquiteto modernista Ludwig Mies van der Rohe."
 		},
@@ -73,7 +73,7 @@
 			"answer": "Brutalismo"
 		},
 		{
-			"question": "Como se chama a estrutura horizontal que sustenta partes de uma construção e transfere cargas para pilares ou paredes?",
+			"question": "Como se chama a **estrutura horizontal** que sustenta partes de uma construção e transfere cargas para pilares ou paredes?",
 			"answer": "Viga"
 		},
 		{
@@ -97,7 +97,7 @@
 			"answer": "Pilar"
 		},
 		{
-			"question": "Qual famosa torre italiana ficou conhecida por sua inclinação?",
+			"question": "Qual famosa torre italiana ficou conhecida por sua **inclinação**?",
 			"answer": "Torre de Pisa"
 		},
 		{
@@ -105,7 +105,7 @@
 			"answer": "Claraboia"
 		},
 		{
-			"question": "Qual cidade italiana é famosa por seus canais e construções à beira da água?",
+			"question": "Qual cidade italiana é famosa por seus **canais e construções** à beira da água?",
 			"answer": "Veneza"
 		}
 	]

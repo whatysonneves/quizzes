@@ -7,23 +7,23 @@
 			"answer": "Quatro estados."
 		},
 		{
-			"question": "Qual é a capital do Espírito Santo?",
+			"question": "Qual é a capital do **Espírito Santo**?",
 			"answer": "Vitória"
 		},
 		{
-			"question": "Qual é a capital de Minas Gerais?",
+			"question": "Qual é a capital de **Minas Gerais**?",
 			"answer": "Belo Horizonte"
 		},
 		{
-			"question": "Qual é a capital do Rio de Janeiro?",
+			"question": "Qual é a capital do **Rio de Janeiro**?",
 			"answer": "Rio de Janeiro"
 		},
 		{
-			"question": "Qual é a capital de São Paulo?",
+			"question": "Qual é a capital de **São Paulo**?",
 			"answer": "São Paulo"
 		},
 		{
-			"question": "Qual estado do Sudeste não tem litoral?",
+			"question": "Qual estado do Sudeste _não_ tem litoral?",
 			"answer": "Minas Gerais"
 		},
 		{
@@ -32,7 +32,7 @@
 			"answerNote": "A cafeicultura se expandiu especialmente pelo Vale do Paraíba e pelo interior de São Paulo e Minas Gerais."
 		},
 		{
-			"question": "Qual cidade mineira foi um importante centro de mineração de ouro no período colonial e hoje é Patrimônio Mundial?",
+			"question": "Qual cidade mineira foi um importante centro de **mineração de ouro** no período colonial e hoje é Patrimônio Mundial?",
 			"answer": "Ouro Preto"
 		},
 		{
@@ -41,7 +41,7 @@
 			"answerNote": "Foi capital de 1763 até a inauguração de Brasília, em 1960."
 		},
 		{
-			"question": "Em qual cidade fica o Cristo Redentor?",
+			"question": "Em qual cidade fica o **Cristo Redentor**?",
 			"answer": "Rio de Janeiro"
 		},
 		{
@@ -50,7 +50,7 @@
 			"answerNote": "O parque fica na divisa entre os dois estados e foi criado em 1937."
 		},
 		{
-			"question": "Qual parque mineiro reúne um grande museu de arte contemporânea a céu aberto?",
+			"question": "Qual parque mineiro reúne um grande **museu de arte contemporânea a céu aberto**?",
 			"answer": "Instituto Inhotim",
 			"answerNote": "Fica em Brumadinho, na região metropolitana de Belo Horizonte."
 		},
@@ -67,7 +67,7 @@
 			"answer": "Itu"
 		},
 		{
-			"question": "Qual cidade capixaba é conhecida pela produção de panelas de barro usadas para preparar moqueca?",
+			"question": "Qual cidade capixaba é conhecida pela produção de **panelas de barro** usadas para preparar moqueca?",
 			"answer": "Vitória",
 			"answerNote": "As panelas são feitas pelas paneleiras de Goiabeiras, tradição reconhecida como patrimônio cultural brasileiro."
 		},
@@ -76,7 +76,7 @@
 			"answer": "Avenida Paulista"
 		},
 		{
-			"question": "Qual estádio do Rio de Janeiro é conhecido mundialmente por grandes partidas de futebol?",
+			"question": "Qual estádio do Rio de Janeiro é conhecido mundialmente por **grandes partidas de futebol**?",
 			"answer": "Maracanã"
 		},
 		{
@@ -85,7 +85,7 @@
 			"answerNote": "Há diferentes regiões produtoras e modos tradicionais de fabricação."
 		},
 		{
-			"question": "Qual parque nacional de Minas Gerais protege a nascente histórica do rio São Francisco?",
+			"question": "Qual parque nacional de Minas Gerais protege a **nascente histórica** do rio São Francisco?",
 			"answer": "Parque Nacional da Serra da Canastra"
 		}
 	]

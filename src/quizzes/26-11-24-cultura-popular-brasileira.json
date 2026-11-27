@@ -7,7 +7,7 @@
 			"answer": "Festa Junina"
 		},
 		{
-			"question": "Qual personagem do folclore brasileiro tem uma perna só e usa um gorro vermelho?",
+			"question": "Qual personagem do folclore brasileiro tem **uma perna só** e usa um gorro vermelho?",
 			"answer": "Saci-Pererê"
 		},
 		{
@@ -16,7 +16,7 @@
 			"answerNote": "É uma das principais manifestações culturais do Carnaval de Pernambuco e foi reconhecido como Patrimônio Cultural Imaterial da Humanidade pela UNESCO."
 		},
 		{
-			"question": "Qual prato típico brasileiro é preparado com feijão preto, carnes e diversos acompanhamentos?",
+			"question": "Qual prato típico brasileiro é preparado com **feijão preto, carnes** e diversos acompanhamentos?",
 			"answer": "Feijoada"
 		},
 		{
@@ -24,7 +24,7 @@
 			"answer": "Curupira"
 		},
 		{
-			"question": "Qual instrumento musical de percussão é muito utilizado nas rodas de samba?",
+			"question": "Qual instrumento musical de percussão é muito utilizado nas **rodas de samba**?",
 			"answer": "Pandeiro"
 		},
 		{
@@ -33,7 +33,7 @@
 			"answerNote": "Também conhecida como Mãe-d'Água, é uma personagem das lendas amazônicas."
 		},
 		{
-			"question": "Qual é o nome da tradicional luta e dança brasileira que mistura movimentos de combate, música e acrobacias?",
+			"question": "Qual é o nome da tradicional luta e dança brasileira que mistura **movimentos de combate, música e acrobacias**?",
 			"answer": "Capoeira",
 			"answerNote": "A capoeira é uma manifestação cultural afro-brasileira que reúne luta, dança, música e ancestralidade."
 		},
@@ -51,7 +51,7 @@
 			"answerNote": "Foi um dos maiores cantores da música popular brasileira, conhecido por sua voz marcante e por interpretar sambas-canção e boleros."
 		},
 		{
-			"question": "Qual personagem do folclore brasileiro é uma mula que solta fogo pelo pescoço?",
+			"question": "Qual personagem do folclore brasileiro é uma **mula que solta fogo** pelo pescoço?",
 			"answer": "Mula sem Cabeça",
 			"answerNote": "Segundo a lenda, trata-se de uma mulher amaldiçoada que se transforma em uma mula com chamas no lugar da cabeça."
 		},
@@ -60,7 +60,7 @@
 			"answer": "Carnaval de Salvador"
 		},
 		{
-			"question": "Qual prato típico mineiro é preparado com polvilho, queijo, ovos e leite?",
+			"question": "Qual prato típico mineiro é preparado com **polvilho, queijo, ovos e leite**?",
 			"answer": "Pão de queijo"
 		},
 		{
@@ -69,7 +69,7 @@
 			"answerNote": "É uma dança tradicional das festas juninas, com forte influência de antigas danças europeias."
 		},
 		{
-			"question": "Qual personagem do folclore brasileiro é conhecido por assobiar e assustar pessoas nas florestas?",
+			"question": "Qual personagem do folclore brasileiro é conhecido por **assobiar e assustar** pessoas nas florestas?",
 			"answer": "Caipora",
 			"answerNote": "É uma figura folclórica protetora dos animais e das matas."
 		},
@@ -87,7 +87,7 @@
 			"answerNote": "É um gênero musical muito popular no Nordeste, especialmente durante as festas juninas."
 		},
 		{
-			"question": "Qual é o nome da tradicional dança brasileira de origem africana, muito popular no litoral de Pernambuco?",
+			"question": "Qual é o nome da tradicional dança brasileira de **origem africana**, muito popular no litoral de Pernambuco?",
 			"answer": "Maracatu",
 			"answerNote": "É uma manifestação cultural afro-brasileira que combina cortejos, música percussiva, dança e elementos da tradição dos reinados negros."
 		},
@@ -96,8 +96,8 @@
 			"answer": "Caipirinha"
 		},
 		{
-			"question": "Qual é o nome da festa popular brasileira em que se comemora a chegada do ano novo, frequentemente com roupas brancas e oferendas ao mar?",
-			"answer": "Réveillon",
+			"question": "Qual é o nome da festa popular brasileira em que se comemora a chegada do ano novo, frequentemente com **roupas brancas e oferendas ao mar**?",
+			"answer": "*Réveillon*",
 			"answerNote": "No Brasil, a celebração possui tradições como pular sete ondas e homenagear Iemanjá, especialmente em cidades litorâneas."
 		},
 		{
@@ -116,7 +116,7 @@
 			"answerNote": "É uma comida de origem afro-brasileira, muito ligada à cultura e à religiosidade do povo baiano."
 		},
 		{
-			"question": "Qual personagem do folclore amazônico se transforma em um homem elegante para seduzir mulheres ribeirinhas durante festas?",
+			"question": "Qual personagem do folclore amazônico se transforma em um homem elegante para seduzir **mulheres ribeirinhas** durante festas?",
 			"answer": "Boto-cor-de-rosa"
 		},
 		{
@@ -124,7 +124,7 @@
 			"answer": "Cuscuz nordestino"
 		},
 		{
-			"question": "Qual escritor brasileiro escreveu o romance Dom Casmurro?",
+			"question": "Qual escritor brasileiro escreveu o romance **Dom Casmurro**?",
 			"answer": "Machado de Assis"
 		},
 		{
@@ -132,7 +132,7 @@
 			"answer": "Amarelinha"
 		},
 		{
-			"question": "Qual ator e comediante brasileiro ficou conhecido pelo personagem Didi?",
+			"question": "Qual ator e comediante brasileiro ficou conhecido pelo **personagem Didi**?",
 			"answer": "Renato Aragão"
 		},
 		{
